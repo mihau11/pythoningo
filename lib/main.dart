@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 import 'dart:math';
 import 'package:flutter/material.dart';
@@ -37,11 +38,37 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
   String _example = '';
   bool _exampleVisible = false;
   bool _buttonsDisabled = false;
+  int _correctAnswers = 0;
+  int _totalQuestions = 0;
+  late Timer _timer;
+  Duration _timeSpent = Duration.zero;
 
   @override
   void initState() {
     super.initState();
+    _startTimer();
     _loadData();
+  }
+
+  @override
+  void dispose() {
+    _timer.cancel();
+    super.dispose();
+  }
+
+  void _startTimer() {
+    _timer = Timer.periodic(Duration(seconds: 1), (timer) {
+      setState(() {
+        _timeSpent = _timeSpent + Duration(seconds: 1);
+      });
+    });
+  }
+
+  String _formatDuration(Duration duration) {
+    String twoDigits(int n) => n.toString().padLeft(2, '0');
+    String twoDigitMinutes = twoDigits(duration.inMinutes.remainder(60));
+    String twoDigitSeconds = twoDigits(duration.inSeconds.remainder(60));
+    return "${twoDigits(duration.inHours)}:$twoDigitMinutes:$twoDigitSeconds";
   }
 
   Future<void> _loadData() async {
@@ -84,9 +111,11 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
   void _checkAnswer(String chosenAnswer) {
     setState(() {
       _buttonsDisabled = true;
+      _totalQuestions++;
       if (chosenAnswer == _correctAnswer) {
         _feedback = 'Correct!';
         _feedbackColor = Colors.green;
+        _correctAnswers++;
       } else {
         _feedback = 'Incorrect. Correct was: $_correctAnswer';
         _feedbackColor = Colors.red;
@@ -117,6 +146,14 @@ class _FlashcardScreenState extends State<FlashcardScreen> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: <Widget>[
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.spaceAround,
+                    children: [
+                      Text('Score: $_correctAnswers / $_totalQuestions', style: TextStyle(fontSize: 16)),
+                      Text('Time: ${_formatDuration(_timeSpent)}', style: TextStyle(fontSize: 16)),
+                    ],
+                  ),
+                  SizedBox(height: 20),
                   Text(
                     _currentItem['english'],
                     textAlign: TextAlign.center,
