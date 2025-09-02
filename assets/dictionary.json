@@ -2411,6 +2411,2460 @@
       "example_english": "Zip your lip! It's a secret.",
       "polish": "trzymać język za zębami",
       "example_polish": "Trzymaj język za zębami! To tajemnica."
+    },
+    {
+      "english": "ask over",
+      "example_english": "Why don't you ask them over for dinner?",
+      "polish": "zaprosić do siebie",
+      "example_polish": "Dlaczego nie zaprosisz ich do siebie na obiad?"
+    },
+    {
+      "english": "blow over",
+      "example_english": "The argument will soon blow over.",
+      "polish": "rozejść się po kościach, minąć",
+      "example_polish": "Kłótnia wkrótce rozejdzie się po kościach."
+    },
+    {
+      "english": "bring on",
+      "example_english": "Stress can bring on an asthma attack.",
+      "polish": "wywołać, spowodować",
+      "example_polish": "Stres może wywołać atak astmy."
+    },
+    {
+      "english": "call back",
+      "example_english": "I'll call you back later.",
+      "polish": "oddzwonić",
+      "example_polish": "Oddzwonię do ciebie później."
+    },
+    {
+      "english": "carry over",
+      "example_english": "The skills you learn will carry over into your work life.",
+      "polish": "przenieść się, obowiązywać nadal",
+      "example_polish": "Umiejętności, których się nauczysz, przeniosą się na twoje życie zawodowe."
+    },
+    {
+      "english": "clear out",
+      "example_english": "It's time to clear out of here.",
+      "polish": "wynieść się, opróżnić",
+      "example_polish": "Czas się stąd wynosić."
+    },
+    {
+      "english": "come about",
+      "example_english": "How did this situation come about?",
+      "polish": "stać się, wydarzyć się",
+      "example_polish": "Jak doszło do tej sytuacji?"
+    },
+    {
+      "english": "count in",
+      "example_english": "If you're going to the cinema, count me in.",
+      "polish": "wliczyć kogoś, uwzględnić",
+      "example_polish": "Jeśli idziecie do kina, wliczcie mnie."
+    },
+    {
+      "english": "cross out",
+      "example_english": "Please cross out the incorrect answers.",
+      "polish": "wykreślić, skreślić",
+      "example_polish": "Proszę wykreślić nieprawidłowe odpowiedzi."
+    },
+    {
+      "english": "cut back on",
+      "example_english": "We need to cut back on our spending.",
+      "polish": "ograniczyć",
+      "example_polish": "Musimy ograniczyć nasze wydatki."
+    },
+    {
+      "english": "dawn on",
+      "example_english": "It suddenly dawned on me that I had left the oven on.",
+      "polish": "zaświtać w głowie",
+      "example_polish": "Nagle zaświtało mi w głowie, że zostawiłem włączony piekarnik."
+    },
+    {
+      "english": "die out",
+      "example_english": "Dinosaurs died out millions of years ago.",
+      "polish": "wymrzeć",
+      "example_polish": "Dinozaury wymarły miliony lat temu."
+    },
+    {
+      "english": "doze off",
+      "example_english": "I dozed off during the lecture.",
+      "polish": "zdrzemnąć się, przysnąć",
+      "example_polish": "Przesnąłem podczas wykładu."
+    },
+    {
+      "english": "draw up",
+      "example_english": "My lawyer will draw up a contract.",
+      "polish": "sporządzić",
+      "example_polish": "Mój prawnik sporządzi umowę."
+    },
+    {
+      "english": "dream up",
+      "example_english": "He dreamed up a plan to make a million dollars.",
+      "polish": "wymyślić, wykoncypować",
+      "example_polish": "Wymyślił plan, jak zarobić milion dolarów."
+    },
+    {
+      "english": "eat up",
+      "example_english": "Eat up your vegetables.",
+      "polish": "zjeść wszystko",
+      "example_polish": "Zjedz wszystkie warzywa."
+    },
+    {
+      "english": "fall behind",
+      "example_english": "She fell behind with her schoolwork.",
+      "polish": "zostać w tyle",
+      "example_polish": "Została w tyle z nauką."
+    },
+    {
+      "english": "get around",
+      "example_english": "It's easy to get around the city on a bike.",
+      "polish": "poruszać się, przemieszczać się",
+      "example_polish": "Łatwo jest poruszać się po mieście na rowerze."
+    },
+    {
+      "english": "go ahead",
+      "example_english": "Go ahead and start without me.",
+      "polish": "śmiało, zaczynać",
+      "example_polish": "Śmiało, zaczynajcie beze mnie."
+    },
+    {
+      "english": "grow on",
+      "example_english": "I didn't like this song at first, but it's starting to grow on me.",
+      "polish": "przekonywać do siebie, podobać się coraz bardziej",
+      "example_polish": "Na początku nie podobała mi się ta piosenka, ale zaczyna mnie do siebie przekonywać."
+    },
+    {
+      "english": "hand over",
+      "example_english": "The robbers told everyone to hand over their valuables.",
+      "polish": "przekazać",
+      "example_polish": "Rabusie kazali wszystkim przekazać swoje kosztowności."
+    },
+    {
+      "english": "hold up",
+      "example_english": "The traffic was held up for hours.",
+      "polish": "zatrzymać, opóźnić",
+      "example_polish": "Ruch był wstrzymany przez wiele godzin."
+    },
+    {
+      "english": "keep out",
+      "example_english": "The sign says 'Keep Out'.",
+      "polish": "nie wchodzić, trzymać z daleka",
+      "example_polish": "Znak głosi 'Wstęp wzbroniony'."
+    },
+    {
+      "english": "let on",
+      "example_english": "Don't let on that you know about the surprise party.",
+      "polish": "zdradzić się, wygadać",
+      "example_polish": "Nie wygadaj się, że wiesz o imprezie niespodziance."
+    },
+    {
+      "english": "look over",
+      "example_english": "Can you look over my report before I submit it?",
+      "polish": "przejrzeć",
+      "example_polish": "Czy możesz przejrzeć mój raport, zanim go oddam?"
+    },
+    {
+      "english": "mix up",
+      "example_english": "I always mix up their names.",
+      "polish": "pomylić",
+      "example_polish": "Zawsze mylę ich imiona."
+    },
+    {
+      "english": "nod off",
+      "example_english": "He nodded off in front of the TV.",
+      "polish": "przysnąć",
+      "example_polish": "Przysnął przed telewizorem."
+    },
+    {
+      "english": "opt for",
+      "example_english": "I decided to opt for the healthier meal.",
+      "polish": "wybrać, zdecydować się na",
+      "example_polish": "Zdecydowałem się wybrać zdrowszy posiłek."
+    },
+    {
+      "english": "pan out",
+      "example_english": "I hope my plans pan out.",
+      "polish": "powieść się, wypalić",
+      "example_polish": "Mam nadzieję, że moje plany się powiodą."
+    },
+    {
+      "english": "pass up",
+      "example_english": "I can't believe you passed up the chance to go to Paris.",
+      "polish": "przepuścić okazję",
+      "example_polish": "Nie mogę uwierzyć, że przepuściłeś okazję wyjazdu do Paryża."
+    },
+    {
+      "english": "patch up",
+      "example_english": "They managed to patch up their differences.",
+      "polish": "załagodzić, naprawić (np. związek)",
+      "example_polish": "Udało im się załagodzić spory."
+    },
+    {
+      "english": "peter out",
+      "example_english": "The storm finally petered out.",
+      "polish": "wygasnąć, skończyć się",
+      "example_polish": "Burza w końcu wygasła."
+    },
+    {
+      "english": "pin down",
+      "example_english": "It's difficult to pin down the cause of the problem.",
+      "polish": "sprecyzować, ustalić",
+      "example_polish": "Trudno jest sprecyzować przyczynę problemu."
+    },
+    {
+      "english": "play up",
+      "example_english": "My old car is playing up again.",
+      "polish": "nawracać, sprawiać kłopoty",
+      "example_polish": "Mój stary samochód znowu sprawia kłopoty."
+    },
+    {
+      "english": "polish off",
+      "example_english": "He polished off the whole cake by himself.",
+      "polish": "pochłonąć, zjeść do końca",
+      "example_polish": "Sam pochłonął całe ciasto."
+    },
+    {
+      "english": "pull over",
+      "example_english": "The police officer asked me to pull over.",
+      "polish": "zjechać na pobocze",
+      "example_polish": "Policjant poprosił mnie, żebym zjechał na pobocze."
+    },
+    {
+      "english": "put across",
+      "example_english": "He's not very good at putting his ideas across.",
+      "polish": "przekazać, zakomunikować",
+      "example_polish": "On nie jest zbyt dobry w przekazywaniu swoich pomysłów."
+    },
+    {
+      "english": "put down",
+      "example_english": "She put down her thoughts in a journal.",
+      "polish": "zapisać",
+      "example_polish": "Zapisała swoje myśli w dzienniku."
+    },
+    {
+      "english": "put up",
+      "example_english": "We can put you up for the night.",
+      "polish": "przenocować kogoś",
+      "example_polish": "Możemy cię przenocować."
+    },
+    {
+      "english": "quiet down",
+      "example_english": "The children finally quieted down.",
+      "polish": "uciszyć się",
+      "example_polish": "Dzieci w końcu się uciszyły."
+    },
+    {
+      "english": "rake in",
+      "example_english": "The company is raking in huge profits.",
+      "polish": "zgarniać (pieniądze)",
+      "example_polish": "Firma zgarnia ogromne zyski."
+    },
+    {
+      "english": "rattle off",
+      "example_english": "She rattled off the names of all the capitals.",
+      "polish": "wyrecytować, wyrzucić z siebie",
+      "example_polish": "Wyrecytowała nazwy wszystkich stolic."
+    },
+    {
+      "english": "reel off",
+      "example_english": "He reeled off a list of excuses.",
+      "polish": "wyrzucić z siebie, wyrecytować",
+      "example_polish": "Wyrzucił z siebie listę wymówek."
+    },
+    {
+      "english": "ride out",
+      "example_english": "We have to ride out the storm.",
+      "polish": "przetrwać",
+      "example_polish": "Musimy przetrwać tę burzę."
+    },
+    {
+      "english": "round off",
+      "example_english": "Let's round off the evening with a drink.",
+      "polish": "zakończyć, zwieńczyć",
+      "example_polish": "Zakończmy wieczór drinkiem."
+    },
+    {
+      "english": "rub in",
+      "example_english": "I know I made a mistake, you don't have to rub it in.",
+      "polish": "wytykać, przypominać o błędzie",
+      "example_polish": "Wiem, że popełniłem błąd, nie musisz mi tego wytykać."
+    },
+    {
+      "english": "run down",
+      "example_english": "He's always running down his colleagues.",
+      "polish": "krytykować, obgadywać",
+      "example_polish": "On zawsze krytykuje swoich kolegów."
+    },
+    {
+      "english": "run up",
+      "example_english": "He ran up a huge debt on his credit card.",
+      "polish": "narobić (długów)",
+      "example_polish": "Narobił ogromnego długu na karcie kredytowej."
+    },
+    {
+      "english": "rustle up",
+      "example_english": "I'll see if I can rustle up some dinner.",
+      "polish": "wyczarować, przygotować na szybko",
+      "example_polish": "Zobaczę, czy uda mi się wyczarować jakiś obiad."
+    },
+    {
+      "english": "sail through",
+      "example_english": "She sailed through her exams.",
+      "polish": "przejść jak burza, poradzić sobie bez problemu",
+      "example_polish": "Przeszła przez egzaminy jak burza."
+    },
+    {
+      "english": "scrape by",
+      "example_english": "They are just scraping by on his small salary.",
+      "polish": "ledwo wiązać koniec z końcem",
+      "example_polish": "Ledwo wiążą koniec z końcem z jego małej pensji."
+    },
+    {
+      "english": "see to",
+      "example_english": "Could you see to the guests while I finish cooking?",
+      "polish": "dopilnować, zająć się",
+      "example_polish": "Czy możesz zająć się gośćmi, podczas gdy ja skończę gotować?"
+    },
+    {
+      "english": "sell out",
+      "example_english": "The concert tickets sold out in minutes.",
+      "polish": "wyprzedać się",
+      "example_polish": "Bilety na koncert wyprzedały się w kilka minut."
+    },
+    {
+      "english": "set about",
+      "example_english": "We need to set about finding a solution.",
+      "polish": "zabrać się do",
+      "example_polish": "Musimy zabrać się za znalezienie rozwiązania."
+    },
+    {
+      "english": "settle for",
+      "example_english": "I had to settle for a smaller apartment than I wanted.",
+      "polish": "zadowolić się",
+      "example_polish": "Musiałem zadowolić się mniejszym mieszkaniem, niż chciałem."
+    },
+    {
+      "english": "shrug off",
+      "example_english": "He shrugged off the criticism and continued with his work.",
+      "polish": "zignorować, zlekceważyć",
+      "example_polish": "Zignorował krytykę i kontynuował swoją pracę."
+    },
+    {
+      "english": "shut up",
+      "example_english": "He told the noisy children to shut up.",
+      "polish": "zamknąć się",
+      "example_polish": "Kazał hałaśliwym dzieciom się zamknąć."
+    },
+    {
+      "english": "sign up",
+      "example_english": "I signed up for a yoga class.",
+      "polish": "zapisać się",
+      "example_polish": "Zapisałem się na zajęcia jogi."
+    },
+    {
+      "english": "size up",
+      "example_english": "The boxer sized up his opponent.",
+      "polish": "ocenić, oszacować",
+      "example_polish": "Bokser ocenił swojego przeciwnika."
+    },
+    {
+      "english": "slip up",
+      "example_english": "One small slip-up can ruin the whole plan.",
+      "polish": "popełnić błąd, pomylić się",
+      "example_polish": "Jedna mała pomyłka może zrujnować cały plan."
+    },
+    {
+      "english": "sort out",
+      "example_english": "We need to sort out this mess.",
+      "polish": "uporządkować, rozwiązać",
+      "example_polish": "Musimy uporządkować ten bałagan."
+    },
+    {
+      "english": "sound out",
+      "example_english": "I'll sound him out about the new proposal.",
+      "polish": "wybadać, wysondować",
+      "example_polish": "Wybadam go w sprawie nowej propozycji."
+    },
+    {
+      "english": "spin off",
+      "example_english": "The company spun off its software division into a new firm.",
+      "polish": "wydzielić (jako osobną firmę)",
+      "example_polish": "Firma wydzieliła swój dział oprogramowania jako nową spółkę."
+    },
+    {
+      "english": "split up",
+      "example_english": "The band decided to split up.",
+      "polish": "rozejść się, rozstać",
+      "example_polish": "Zespół postanowił się rozejść."
+    },
+    {
+      "english": "spring up",
+      "example_english": "New cafes are springing up all over the city.",
+      "polish": "pojawiać się jak grzyby po deszczu",
+      "example_polish": "Nowe kawiarnie pojawiają się w całym mieście jak grzyby po deszczu."
+    },
+    {
+      "english": "stamp out",
+      "example_english": "We must stamp out this disease.",
+      "polish": "wykorzenić, zlikwidować",
+      "example_polish": "Musimy wykorzenić tę chorobę."
+    },
+    {
+      "english": "stand up for",
+      "example_english": "You need to stand up for what you believe in.",
+      "polish": "bronić, stawać w obronie",
+      "example_polish": "Musisz bronić tego, w co wierzysz."
+    },
+    {
+      "english": "start over",
+      "example_english": "This is all wrong, we have to start over.",
+      "polish": "zacząć od nowa",
+      "example_polish": "To wszystko jest źle, musimy zacząć od nowa."
+    },
+    {
+      "english": "stay up",
+      "example_english": "I stayed up late to finish my work.",
+      "polish": "nie kłaść się spać",
+      "example_polish": "Nie położyłem się spać do późna, żeby skończyć pracę."
+    },
+    {
+      "english": "step up",
+      "example_english": "The company needs to step up its efforts to improve customer service.",
+      "polish": "zwiększyć, zintensyfikować",
+      "example_polish": "Firma musi zintensyfikować swoje wysiłki w celu poprawy obsługi klienta."
+    },
+    {
+      "english": "stick up for",
+      "example_english": "She always sticks up for her friends.",
+      "polish": "bronić kogoś",
+      "example_polish": "Ona zawsze broni swoich przyjaciół."
+    },
+    {
+      "english": "sum up",
+      "example_english": "To sum up, we need more time and money.",
+      "polish": "podsumować",
+      "example_polish": "Podsumowując, potrzebujemy więcej czasu i pieniędzy."
+    },
+    {
+      "english": "take on",
+      "example_english": "I'm not ready to take on any more work.",
+      "polish": "podjąć się, przyjąć",
+      "example_polish": "Nie jestem gotów podjąć się więcej pracy."
+    },
+    {
+      "english": "talk into",
+      "example_english": "He talked me into going to the party.",
+      "polish": "namówić",
+      "example_polish": "Namówił mnie na pójście na imprezę."
+    },
+    {
+      "english": "tear up",
+      "example_english": "She tore up the letter in anger.",
+      "polish": "podrzeć",
+      "example_polish": "Podarła list w złości."
+    },
+    {
+      "english": "think up",
+      "example_english": "Let's try to think up a new idea.",
+      "polish": "wymyślić",
+      "example_polish": "Spróbujmy wymyślić nowy pomysł."
+    },
+    {
+      "english": "throw up",
+      "example_english": "I feel like I'm going to throw up.",
+      "polish": "wymiotować",
+      "example_polish": "Czuję, że zaraz zwymiotuję."
+    },
+    {
+      "english": "tick off",
+      "example_english": "He ticked off the items on the list as he packed them.",
+      "polish": "odhaczyć",
+      "example_polish": "Odhaczał pozycje na liście, gdy je pakował."
+    },
+    {
+      "english": "tone down",
+      "example_english": "You should tone down your criticism.",
+      "polish": "złagodzić",
+      "example_polish": "Powinieneś złagodzić swoją krytykę."
+    },
+    {
+      "english": "touch on",
+      "example_english": "The report only touches on the issue of climate change.",
+      "polish": "wspomnieć, poruszyć",
+      "example_polish": "Raport tylko wspomina o kwestii zmian klimatycznych."
+    },
+    {
+      "english": "toy with",
+      "example_english": "He's toying with the idea of moving abroad.",
+      "polish": "bawić się myślą",
+      "example_polish": "Bawi się myślą o przeprowadzce za granicę."
+    },
+    {
+      "english": "turn out",
+      "example_english": "The party turned out to be a huge success.",
+      "polish": "okazać się",
+      "example_polish": "Impreza okazała się ogromnym sukcesem."
+    },
+    {
+      "english": "wait on",
+      "example_english": "The waiter is waiting on three tables at once.",
+      "polish": "obsługiwać",
+      "example_polish": "Kelner obsługuje trzy stoliki naraz."
+    },
+    {
+      "english": "walk out on",
+      "example_english": "He walked out on his family.",
+      "polish": "opuścić, porzucić",
+      "example_polish": "Opuścił swoją rodzinę."
+    },
+    {
+      "english": "wash up",
+      "example_english": "Can you help me wash up the dishes?",
+      "polish": "pozmywać naczynia",
+      "example_polish": "Czy możesz pomóc mi pozmywać naczynia?"
+    },
+    {
+      "english": "weigh up",
+      "example_english": "You need to weigh up the pros and cons.",
+      "polish": "rozważyć",
+      "example_polish": "Musisz rozważyć za i przeciw."
+    },
+    {
+      "english": "whip up",
+      "example_english": "She can whip up a delicious meal in minutes.",
+      "polish": "przygotować na szybko",
+      "example_polish": "Ona potrafi w kilka minut przygotować pyszny posiłek."
+    },
+    {
+      "english": "wind down",
+      "example_english": "I like to wind down with a book before bed.",
+      "polish": "zrelaksować się, odprężyć",
+      "example_polish": "Lubię się zrelaksować z książką przed snem."
+    },
+    {
+      "english": "write off",
+      "example_english": "The company had to write off a large amount of bad debt.",
+      "polish": "spisać na straty",
+      "example_polish": "Firma musiała spisać na straty dużą kwotę złych długów."
+    },
+    {
+      "english": "yak on",
+      "example_english": "He just yakked on for hours about his problems.",
+      "polish": "gadać bez przerwy, paplać",
+      "example_polish": "Po prostu paplał godzinami o swoich problemach."
+    },
+    {
+      "english": "yap away",
+      "example_english": "The dogs were yapping away in the garden.",
+      "polish": "szczekać, jazgotać",
+      "example_polish": "Psy jazgotały w ogrodzie."
+    },
+    {
+      "english": "yearn for",
+      "example_english": "She yearned for a return to her homeland.",
+      "polish": "tęsknić za, pragnąć",
+      "example_polish": "Tęskniła za powrotem do ojczyzny."
+    },
+    {
+      "english": "yield to",
+      "example_english": "He refused to yield to their demands.",
+      "polish": "ulec, poddać się",
+      "example_polish": "Odmówił ulec ich żądaniom."
+    },
+    {
+      "english": "zone out",
+      "example_english": "I zoned out during the long meeting.",
+      "polish": "wyłączyć się, odpłynąć myślami",
+      "example_polish": "Wyłączyłem się podczas długiego spotkania."
+    },
+    {
+      "english": "zoom in on",
+      "example_english": "The camera zoomed in on the actor's face.",
+      "polish": "zrobić zbliżenie na",
+      "example_polish": "Kamera zrobiła zbliżenie na twarz aktora."
+    },
+    {
+      "english": "a bed of roses",
+      "example_english": "Life is not always a bed of roses.",
+      "polish": "usłane różami",
+      "example_polish": "Życie nie zawsze jest usłane różami."
+    },
+    {
+      "english": "a bone of contention",
+      "example_english": "The new budget is a bone of contention between the parties.",
+      "polish": "kość niezgody",
+      "example_polish": "Nowy budżet jest kością niezgody między partiami."
+    },
+    {
+      "english": "a drop in the ocean",
+      "example_english": "The money we raised is just a drop in the ocean.",
+      "polish": "kropla w morzu",
+      "example_polish": "Pieniądze, które zebraliśmy, to tylko kropla w morzu."
+    },
+    {
+      "english": "a flash in the pan",
+      "example_english": "His success was just a flash in the pan.",
+      "polish": "jednorazowy wyskok, słomiany zapał",
+      "example_polish": "Jego sukces był tylko jednorazowym wyskokiem."
+    },
+    {
+      "english": "a fly in the ointment",
+      "example_english": "The only fly in the ointment was the bad weather.",
+      "polish": "łyżka dziegciu w beczce miodu",
+      "example_polish": "Jedyną łyżką dziegciu w beczce miodu była zła pogoda."
+    },
+    {
+      "english": "a house of cards",
+      "example_english": "Their business was a house of cards, ready to collapse.",
+      "polish": "domek z kart",
+      "example_polish": "Ich biznes był domkiem z kart, gotowym się zawalić."
+    },
+    {
+      "english": "a leopard can't change its spots",
+      "example_english": "He promised to be honest, but a leopard can't change its spots.",
+      "polish": "natura ciągnie wilka do lasu",
+      "example_polish": "Obiecał, że będzie uczciwy, ale natura ciągnie wilka do lasu."
+    },
+    {
+      "english": "a shot in the dark",
+      "example_english": "It was just a shot in the dark, but I got the answer right.",
+      "polish": "strzał w ciemno",
+      "example_polish": "To był tylko strzał w ciemno, ale odpowiedziałem poprawnie."
+    },
+    {
+      "english": "Achilles' heel",
+      "example_english": "His arrogance is his Achilles' heel.",
+      "polish": "pięta achillesowa",
+      "example_polish": "Jego arogancja to jego pięta achillesowa."
+    },
+    {
+      "english": "all Greek to me",
+      "example_english": "I tried to read the manual, but it was all Greek to me.",
+      "polish": "czarna magia",
+      "example_polish": "Próbowałem przeczytać instrukcję, ale to była dla mnie czarna magia."
+    },
+    {
+      "english": "apple of my eye",
+      "example_english": "His youngest daughter is the apple of his eye.",
+      "polish": "oczko w głowie",
+      "example_polish": "Jego najmłodsza córka jest jego oczkiem w głowie."
+    },
+    {
+      "english": "as cool as a cucumber",
+      "example_english": "He was as cool as a cucumber during the crisis.",
+      "polish": "oaza spokoju, zimny jak lód",
+      "example_polish": "Był oazą spokoju podczas kryzysu."
+    },
+    {
+      "english": "at loggerheads",
+      "example_english": "The two managers are at loggerheads over the new policy.",
+      "polish": "na wojennej ścieżce",
+      "example_polish": "Dwaj menedżerowie są na wojennej ścieżce w sprawie nowej polityki."
+    },
+    {
+      "english": "baker's dozen",
+      "example_english": "He bought a baker's dozen of donuts.",
+      "polish": "trzynaście (tuzin piekarski)",
+      "example_polish": "Kupił trzynaście pączków."
+    },
+    {
+      "english": "beat a dead horse",
+      "example_english": "There's no point in arguing further; you're just beating a dead horse.",
+      "polish": "kruszyć kopie o coś, co jest już przegrane",
+      "example_polish": "Nie ma sensu dalej się kłócić; po prostu kruszysz kopie o coś, co jest już przegrane."
+    },
+    {
+      "english": "bend over backwards",
+      "example_english": "She bent over backwards to help him.",
+      "polish": "stawać na głowie",
+      "example_polish": "Stawała na głowie, żeby mu pomóc."
+    },
+    {
+      "english": "between a rock and a hard place",
+      "example_english": "I'm between a rock and a hard place - I can't afford to quit my job, but I hate it.",
+      "polish": "między młotem a kowadłem",
+      "example_polish": "Jestem między młotem a kowadłem - nie stać mnie na rzucenie pracy, ale jej nienawidzę."
+    },
+    {
+      "english": "birds of a feather flock together",
+      "example_english": "They are all interested in computers. Birds of a feather flock together.",
+      "polish": "ciągnie swój do swego",
+      "example_polish": "Wszyscy interesują się komputerami. Ciągnie swój do swego."
+    },
+    {
+      "english": "black sheep of the family",
+      "example_english": "He was always the black sheep of the family, getting into trouble.",
+      "polish": "czarna owca w rodzinie",
+      "example_polish": "Zawsze był czarną owcą w rodzinie, pakując się w kłopoty."
+    },
+    {
+      "english": "blood is thicker than water",
+      "example_english": "When it comes to a crisis, they always support each other. Blood is thicker than water.",
+      "polish": "więzy krwi są silniejsze niż inne",
+      "example_polish": "W sytuacji kryzysowej zawsze się wspierają. Więzy krwi są silniejsze niż inne."
+    },
+    {
+      "english": "blue-eyed boy",
+      "example_english": "He is the manager's blue-eyed boy.",
+      "polish": "pupilek, faworyt",
+      "example_polish": "On jest pupilkiem menedżera."
+    },
+    {
+      "english": "break the ice",
+      "example_english": "He told a joke to break the ice.",
+      "polish": "przełamać pierwsze lody",
+      "example_polish": "Opowiedział dowcip, żeby przełamać pierwsze lody."
+    },
+    {
+      "english": "bring home the bacon",
+      "example_english": "She works hard to bring home the bacon for her family.",
+      "polish": "zarabiać na chleb",
+      "example_polish": "Ciężko pracuje, aby zarobić na chleb dla swojej rodziny."
+    },
+    {
+      "english": "build castles in the air",
+      "example_english": "Stop building castles in the air and get a real job.",
+      "polish": "budować zamki na lodzie",
+      "example_polish": "Przestań budować zamki na lodzie i znajdź prawdziwą pracę."
+    },
+    {
+      "english": "butterflies in my stomach",
+      "example_english": "I always get butterflies in my stomach before a presentation.",
+      "polish": "motyle w brzuchu (ze zdenerwowania)",
+      "example_polish": "Zawsze mam motyle w brzuchu przed prezentacją."
+    },
+    {
+      "english": "by word of mouth",
+      "example_english": "The restaurant became popular by word of mouth.",
+      "polish": "pocztą pantoflową",
+      "example_polish": "Restauracja stała się popularna pocztą pantoflową."
+    },
+    {
+      "english": "catch someone red-handed",
+      "example_english": "The police caught the thief red-handed.",
+      "polish": "złapać kogoś na gorącym uczynku",
+      "example_polish": "Policja złapała złodzieja na gorącym uczynku."
+    },
+    {
+      "english": "chip off the old block",
+      "example_english": "He's a great musician, just like his father - a chip off the old block.",
+      "polish": "niedaleko pada jabłko od jabłoni",
+      "example_polish": "Jest świetnym muzykiem, tak jak jego ojciec - niedaleko pada jabłko od jabłoni."
+    },
+    {
+      "english": "close shave",
+      "example_english": "That was a close shave! The car almost hit me.",
+      "polish": "o mały włos",
+      "example_polish": "O mały włos! Samochód prawie mnie potrącił."
+    },
+    {
+      "english": "cloud nine",
+      "example_english": "She's been on cloud nine since she got engaged.",
+      "polish": "w siódmym niebie",
+      "example_polish": "Jest w siódmym niebie, odkąd się zaręczyła."
+    },
+    {
+      "english": "cold turkey",
+      "example_english": "He quit smoking cold turkey.",
+      "polish": "z dnia na dzień, od razu (rzucić nałóg)",
+      "example_polish": "Rzucił palenie z dnia na dzień."
+    },
+    {
+      "english": "come to a head",
+      "example_english": "The problems in the company finally came to a head.",
+      "polish": "osiągnąć punkt krytyczny",
+      "example_polish": "Problemy w firmie w końcu osiągnęły punkt krytyczny."
+    },
+    {
+      "english": "cream of the crop",
+      "example_english": "The students at this university are the cream of the crop.",
+      "polish": "śmietanka towarzyska, elita",
+      "example_polish": "Studenci na tym uniwersytecie to elita."
+    },
+    {
+      "english": "crocodile tears",
+      "example_english": "She shed crocodile tears over his departure, but she was secretly happy.",
+      "polish": "krokodyle łzy",
+      "example_polish": "Roniła krokodyle łzy z powodu jego wyjazdu, ale w tajemnicy się cieszyła."
+    },
+    {
+      "english": "cross your fingers",
+      "example_english": "Cross your fingers that I get the job.",
+      "polish": "trzymać kciuki",
+      "example_polish": "Trzymaj kciuki, żebym dostał tę pracę."
+    },
+    {
+      "english": "cut the Gordian knot",
+      "example_english": "The new CEO cut the Gordian knot of bureaucracy.",
+      "polish": "przeciąć węzeł gordyjski",
+      "example_polish": "Nowy prezes przeciął węzeł gordyjski biurokracji."
+    },
+    {
+      "english": "dead wood",
+      "example_english": "The company is trying to get rid of the dead wood.",
+      "polish": "zbędni pracownicy, balast",
+      "example_polish": "Firma próbuje pozbyć się zbędnych pracowników."
+    },
+    {
+      "english": "diamond in the rough",
+      "example_english": "He's a bit rude, but he's a diamond in the rough.",
+      "polish": "nieoszlifowany diament",
+      "example_polish": "Jest trochę niegrzeczny, ale to nieoszlifowany diament."
+    },
+    {
+      "english": "dog-eat-dog world",
+      "example_english": "It's a dog-eat-dog world in the finance industry.",
+      "polish": "świat, w którym panuje prawo dżungli",
+      "example_polish": "W branży finansowej panuje prawo dżungli."
+    },
+    {
+      "english": "don't look a gift horse in the mouth",
+      "example_english": "I know it's not exactly what you wanted, but don't look a gift horse in the mouth.",
+      "polish": "darowanemu koniowi w zęby się nie zagląda",
+      "example_polish": "Wiem, że to nie do końca to, co chciałeś, ale darowanemu koniowi w zęby się nie zagląda."
+    },
+    {
+      "english": "down to earth",
+      "example_english": "Despite her fame, she's very down to earth.",
+      "polish": "twardo stąpający po ziemi",
+      "example_polish": "Mimo swojej sławy, jest osobą twardo stąpającą po ziemi."
+    },
+    {
+      "english": "drink like a fish",
+      "example_english": "He drinks like a fish at every party.",
+      "polish": "pić jak szewc",
+      "example_polish": "On pije jak szewc na każdej imprezie."
+    },
+    {
+      "english": "drive someone up the wall",
+      "example_english": "His constant complaining is driving me up the wall.",
+      "polish": "doprowadzać kogoś do szału",
+      "example_polish": "Jego ciągłe narzekanie doprowadza mnie do szału."
+    },
+    {
+      "english": "drop in the bucket",
+      "example_english": "Our donation is just a drop in the bucket compared to what's needed.",
+      "polish": "kropla w morzu potrzeb",
+      "example_polish": "Nasza darowizna to tylko kropla w morzu potrzeb."
+    },
+    {
+      "english": "Dutch courage",
+      "example_english": "He needed some Dutch courage before he could ask her to dance.",
+      "polish": "odwaga po alkoholu",
+      "example_polish": "Potrzebował trochę odwagi po alkoholu, zanim mógł ją poprosić do tańca."
+    },
+    {
+      "english": "early bird catches the worm",
+      "example_english": "I get up at 5 AM every day. The early bird catches the worm.",
+      "polish": "kto rano wstaje, temu Pan Bóg daje",
+      "example_polish": "Wstaję codziennie o 5 rano. Kto rano wstaje, temu Pan Bóg daje."
+    },
+    {
+      "english": "eat your words",
+      "example_english": "He had to eat his words after she won the race.",
+      "polish": "odszczekać, cofnąć swoje słowa",
+      "example_polish": "Musiał odszczekać swoje słowa, gdy ona wygrała wyścig."
+    },
+    {
+      "english": "egg on your face",
+      "example_english": "He was left with egg on his face after his prediction turned out to be wrong.",
+      "polish": "wyjść na głupka, skompromitować się",
+      "example_polish": "Wyszedł na głupka, gdy jego przewidywania okazały się błędne."
+    },
+    {
+      "english": "eleventh hour",
+      "example_english": "They reached an agreement at the eleventh hour.",
+      "polish": "w ostatniej chwili",
+      "example_polish": "Osiągnęli porozumienie w ostatniej chwili."
+    },
+    {
+      "english": "every Tom, Dick, and Harry",
+      "example_english": "I don't want every Tom, Dick, and Harry knowing my business.",
+      "polish": "pierwszy lepszy, byle kto",
+      "example_polish": "Nie chcę, żeby byle kto znał moje sprawy."
+    },
+    {
+      "english": "face value",
+      "example_english": "You shouldn't always take things at face value.",
+      "polish": "wartość nominalna, pozory",
+      "example_polish": "Nie zawsze powinieneś brać rzeczy za dobrą monetę."
+    },
+    {
+      "english": "fair and square",
+      "example_english": "He won the competition fair and square.",
+      "polish": "uczciwie",
+      "example_polish": "Wygrał zawody uczciwie."
+    },
+    {
+      "english": "fall on deaf ears",
+      "example_english": "My warnings fell on deaf ears.",
+      "polish": "trafić w próżnię",
+      "example_polish": "Moje ostrzeżenia trafiły w próżnię."
+    },
+    {
+      "english": "fat cat",
+      "example_english": "The fat cats in the banking industry received huge bonuses.",
+      "polish": "gruba ryba",
+      "example_polish": "Grube ryby w branży bankowej otrzymały ogromne premie."
+    },
+    {
+      "english": "feast or famine",
+      "example_english": "For a freelance writer, it's often feast or famine.",
+      "polish": "raz na wozie, raz pod wozem",
+      "example_polish": "Dla freelancera to często raz na wozie, raz pod wozem."
+    },
+    {
+      "english": "feet of clay",
+      "example_english": "The hero was shown to have feet of clay.",
+      "polish": "kolos na glinianych nogach",
+      "example_polish": "Okazało się, że bohater to kolos na glinianych nogach."
+    },
+    {
+      "english": "fence-sitter",
+      "example_english": "He's a fence-sitter, never taking a clear position.",
+      "polish": "osoba niezdecydowana, chorągiewka na wietrze",
+      "example_polish": "Jest niezdecydowany, nigdy nie zajmuje jasnego stanowiska."
+    },
+    {
+      "english": "few and far between",
+      "example_english": "Good jobs are few and far between in this area.",
+      "polish": "rzadki, nieliczny",
+      "example_polish": "Dobre prace są rzadkością w tej okolicy."
+    },
+    {
+      "english": "fiddle while Rome burns",
+      "example_english": "The management is fiddling while Rome burns, ignoring the company's huge losses.",
+      "polish": "bawić się, gdy wali się świat",
+      "example_polish": "Zarząd bawi się, gdy wali się świat, ignorując ogromne straty firmy."
+    },
+    {
+      "english": "fine-tooth comb",
+      "example_english": "The police went over the evidence with a fine-tooth comb.",
+      "polish": "bardzo dokładnie, z lupą w ręku",
+      "example_polish": "Policja przeanalizowała dowody bardzo dokładnie."
+    },
+    {
+      "english": "flash in the pan",
+      "example_english": "His first novel was a success, but it was just a flash in the pan.",
+      "polish": "słomiany zapał, jednorazowy sukces",
+      "example_polish": "Jego pierwsza powieść odniosła sukces, ale to był tylko jednorazowy wyskok."
+    },
+    {
+      "english": "fly by the seat of your pants",
+      "example_english": "We had no plan, we were just flying by the seat of our pants.",
+      "polish": "improwizować",
+      "example_polish": "Nie mieliśmy planu, po prostu improwizowaliśmy."
+    },
+    {
+      "english": "fly in the face of",
+      "example_english": "This decision flies in the face of common sense.",
+      "polish": "kłócić się z, być sprzecznym z",
+      "example_polish": "Ta decyzja kłóci się ze zdrowym rozsądkiem."
+    },
+    {
+      "english": "foam at the mouth",
+      "example_english": "He was foaming at the mouth with rage.",
+      "polish": "dostawać piany z wściekłości",
+      "example_polish": "Dostawał piany z wściekłości."
+    },
+    {
+      "english": "foot in the door",
+      "example_english": "This internship could be my foot in the door to a great career.",
+      "polish": "zaczepić się, zrobić pierwszy krok",
+      "example_polish": "Ten staż może być moim pierwszym krokiem do wspaniałej kariery."
+    },
+    {
+      "english": "for the birds",
+      "example_english": "His idea is for the birds; it will never work.",
+      "polish": "do niczego, bez sensu",
+      "example_polish": "Jego pomysł jest do niczego; nigdy nie zadziała."
+    },
+    {
+      "english": "forty winks",
+      "example_english": "I'm just going to have forty winks.",
+      "polish": "krótka drzemka",
+      "example_polish": "Idę się tylko krótko zdrzemnąć."
+    },
+    {
+      "english": "French leave",
+      "example_english": "He took French leave and disappeared from the party.",
+      "polish": "wyjść po angielsku",
+      "example_polish": "Wyszedł po angielsku i zniknął z imprezy."
+    },
+    {
+      "english": "from pillar to post",
+      "example_english": "I was sent from pillar to post trying to get the information.",
+      "polish": "od Annasza do Kajfasza",
+      "example_polish": "Byłem odsyłany od Annasza do Kajfasza, próbując uzyskać informacje."
+    },
+    {
+      "english": "from the horse's mouth",
+      "example_english": "I got the news straight from the horse's mouth.",
+      "polish": "z pierwszej ręki, u źródła",
+      "example_polish": "Dostałem tę wiadomość z pierwszej ręki."
+    },
+    {
+      "english": "full of beans",
+      "example_english": "The children are always full of beans.",
+      "polish": "pełen energii, tryskający energią",
+      "example_polish": "Dzieci są zawsze pełne energii."
+    },
+    {
+      "english": "gain ground",
+      "example_english": "The new political party is gaining ground.",
+      "polish": "zyskiwać na popularności, robić postępy",
+      "example_polish": "Nowa partia polityczna zyskuje na popularności."
+    },
+    {
+      "english": "get a second wind",
+      "example_english": "After a short break, I got a second wind and finished the race.",
+      "polish": "dostać drugiego oddechu",
+      "example_polish": "Po krótkiej przerwie dostałem drugiego oddechu i ukończyłem wyścig."
+    },
+    {
+      "english": "get down to brass tacks",
+      "example_english": "Let's stop the small talk and get down to brass tacks.",
+      "polish": "przejść do konkretów",
+      "example_polish": "Skończmy z pogaduszkami i przejdźmy do konkretów."
+    },
+    {
+      "english": "get off scot-free",
+      "example_english": "He was clearly guilty, but he got off scot-free.",
+      "polish": "wyjść bez szwanku, ujść na sucho",
+      "example_polish": "Był ewidentnie winny, ale uszło mu to na sucho."
+    },
+    {
+      "english": "get on like a house on fire",
+      "example_english": "They just met, but they get on like a house on fire.",
+      "polish": "świetnie się dogadywać",
+      "example_polish": "Dopiero się poznali, a już świetnie się dogadują."
+    },
+    {
+      "english": "get the sack",
+      "example_english": "He got the sack for being consistently late.",
+      "polish": "zostać wylanym z pracy",
+      "example_polish": "Został wylany z pracy za ciągłe spóźnianie się."
+    },
+    {
+      "english": "get your act together",
+      "example_english": "You need to get your act together if you want to pass the exam.",
+      "polish": "wziąć się w garść",
+      "example_polish": "Musisz wziąć się w garść, jeśli chcesz zdać egzamin."
+    },
+    {
+      "english": "gild the lily",
+      "example_english": "The dress is beautiful on its own; adding more jewels would be gilding the lily.",
+      "polish": "przedobrzyć, ulepszać coś, co jest już doskonałe",
+      "example_polish": "Sukienka jest piękna sama w sobie; dodawanie kolejnych klejnotów byłoby przedobrzeniem."
+    },
+    {
+      "english": "give someone the slip",
+      "example_english": "The suspect managed to give the police the slip.",
+      "polish": "urwać się komuś, wymknąć się",
+      "example_polish": "Podejrzanemu udało się wymknąć policji."
+    },
+    {
+      "english": "go for broke",
+      "example_english": "We're going for broke on this last attempt.",
+      "polish": "iść na całość",
+      "example_polish": "Idziemy na całość w tej ostatniej próbie."
+    },
+    {
+      "english": "go haywire",
+      "example_english": "The computer system went haywire.",
+      "polish": "zwariować, zepsuć się",
+      "example_polish": "System komputerowy zwariował."
+    },
+    {
+      "english": "go out on a limb",
+      "example_english": "I'm going to go out on a limb and predict that our team will win.",
+      "polish": "zaryzykować",
+      "example_polish": "Zaryzykuję i przewidzę, że nasza drużyna wygra."
+    },
+    {
+      "english": "go to the dogs",
+      "example_english": "This neighborhood has really gone to the dogs.",
+      "polish": "zejść na psy",
+      "example_polish": "Ta okolica naprawdę zeszła na psy."
+    },
+    {
+      "english": "golden handshake",
+      "example_english": "The CEO received a golden handshake when he retired.",
+      "polish": "wysoka odprawa",
+      "example_polish": "Prezes otrzymał wysoką odprawę, gdy odchodził na emeryturę."
+    },
+    {
+      "english": "good Samaritan",
+      "example_english": "A good Samaritan stopped to help me change my flat tire.",
+      "polish": "dobry Samarytanin",
+      "example_polish": "Dobry Samarytanin zatrzymał się, żeby pomóc mi zmienić przebitą oponę."
+    },
+    {
+      "english": "grapevine",
+      "example_english": "I heard through the grapevine that she's leaving.",
+      "polish": "poczta pantoflowa",
+      "example_polish": "Słyszałem pocztą pantoflową, że ona odchodzi."
+    },
+    {
+      "english": "graveyard shift",
+      "example_english": "He works the graveyard shift at the factory.",
+      "polish": "nocna zmiana",
+      "example_polish": "On pracuje na nocnej zmianie w fabryce."
+    },
+    {
+      "english": "green with envy",
+      "example_english": "She was green with envy when she saw my new car.",
+      "polish": "zielony z zazdrości",
+      "example_polish": "Była zielona z zazdrości, gdy zobaczyła mój nowy samochód."
+    },
+    {
+      "english": "grin and bear it",
+      "example_english": "I hate my job, but I have to grin and bear it.",
+      "polish": "robić dobrą minę do złej gry",
+      "example_polish": "Nienawidzę swojej pracy, ale muszę robić dobrą minę do złej gry."
+    },
+    {
+      "english": "hale and hearty",
+      "example_english": "My grandfather is 90, but he's still hale and hearty.",
+      "polish": "zdrów i krzepki",
+      "example_polish": "Mój dziadek ma 90 lat, ale wciąż jest zdrów i krzepki."
+    },
+    {
+      "english": "hand to mouth",
+      "example_english": "They live hand to mouth, never knowing where the next meal is coming from.",
+      "polish": "żyć od pierwszego do pierwszego",
+      "example_polish": "Żyją od pierwszego do pierwszego, nigdy nie wiedząc, skąd wezmą na następny posiłek."
+    },
+    {
+      "english": "handle with kid gloves",
+      "example_english": "You have to handle this situation with kid gloves.",
+      "polish": "obchodzić się jak z jajkiem",
+      "example_polish": "Musisz obchodzić się z tą sytuacją jak z jajkiem."
+    },
+    {
+      "english": "have a bone to pick with someone",
+      "example_english": "I have a bone to pick with you about what you said yesterday.",
+      "polish": "mieć z kimś na pieńku",
+      "example_polish": "Mam z tobą na pieńku w związku z tym, co wczoraj powiedziałeś."
+    },
+    {
+      "english": "have an axe to grind",
+      "example_english": "He's criticizing the new policy, but he has an axe to grind.",
+      "polish": "mieć w tym swój interes",
+      "example_polish": "Krytykuje nową politykę, ale ma w tym swój interes."
+    },
+    {
+      "english": "have bigger fish to fry",
+      "example_english": "I can't deal with that now; I have bigger fish to fry.",
+      "polish": "mieć ważniejsze sprawy na głowie",
+      "example_polish": "Nie mogę się tym teraz zająć; mam ważniejsze sprawy na głowie."
+    },
+    {
+      "english": "have cold feet",
+      "example_english": "He had cold feet about getting married.",
+      "polish": "stchórzyć",
+      "example_polish": "Stchórzył przed ślubem."
+    },
+    {
+      "english": "have one's hands full",
+      "example_english": "I have my hands full with the new project.",
+      "polish": "mieć pełne ręce roboty",
+      "example_polish": "Mam pełne ręce roboty przy nowym projekcie."
+    },
+    {
+      "english": "have the upper hand",
+      "example_english": "Our team has the upper hand in this match.",
+      "polish": "mieć przewagę",
+      "example_polish": "Nasza drużyna ma przewagę w tym meczu."
+    },
+    {
+      "english": "head and shoulders above",
+      "example_english": "She is head and shoulders above the other candidates.",
+      "polish": "o głowę lepszy od",
+      "example_polish": "Jest o głowę lepsza od pozostałych kandydatów."
+    },
+    {
+      "english": "head over heels",
+      "example_english": "He fell head over heels in love with her.",
+      "polish": "zakochany po uszy",
+      "example_polish": "Zakochał się w niej po uszy."
+    },
+    {
+      "english": "hear a pin drop",
+      "example_english": "It was so quiet you could hear a pin drop.",
+      "polish": "słychać było muchę, jak leci",
+      "example_polish": "Było tak cicho, że słychać było muchę, jak leci."
+    },
+    {
+      "english": "high and dry",
+      "example_english": "They left me high and dry without any money.",
+      "polish": "zostawić na lodzie",
+      "example_polish": "Zostawili mnie na lodzie bez żadnych pieniędzy."
+    },
+    {
+      "english": "hit below the belt",
+      "example_english": "His comment was a low blow, hitting below the belt.",
+      "polish": "cios poniżej pasa",
+      "example_polish": "Jego komentarz był ciosem poniżej pasa."
+    },
+    {
+      "english": "hit the ceiling",
+      "example_english": "My dad will hit the ceiling when he sees the broken window.",
+      "polish": "wpaść w szał",
+      "example_polish": "Mój tata wpadnie w szał, gdy zobaczy rozbite okno."
+    },
+    {
+      "english": "Hobson's choice",
+      "example_english": "It's a Hobson's choice - I can either accept the terrible offer or get nothing.",
+      "polish": "pozorny wybór (albo to, albo nic)",
+      "example_polish": "To pozorny wybór - mogę albo przyjąć tę okropną ofertę, albo nie dostać nic."
+    },
+    {
+      "english": "hold all the aces",
+      "example_english": "In this negotiation, she holds all the aces.",
+      "polish": "mieć wszystkie atuty w ręku",
+      "example_polish": "W tych negocjacjach ona ma wszystkie atuty w ręku."
+    },
+    {
+      "english": "horn of plenty",
+      "example_english": "The harvest festival featured a horn of plenty filled with fruits.",
+      "polish": "róg obfitości",
+      "example_polish": "Na dożynkach znajdował się róg obfitości wypełniony owocami."
+    },
+    {
+      "english": "horse around",
+      "example_english": "Stop horsing around and get back to work.",
+      "polish": "wygłupiać się, błaznować",
+      "example_polish": "Przestańcie się wygłupiać i wracajcie do pracy."
+    },
+    {
+      "english": "hot under the collar",
+      "example_english": "He got hot under the collar when they questioned his decision.",
+      "polish": "wściekły, zirytowany",
+      "example_polish": "Wściekł się, gdy zakwestionowali jego decyzję."
+    },
+    {
+      "english": "icing on the cake",
+      "example_english": "Winning the award was great, and the prize money was the icing on the cake.",
+      "polish": "wisienka na torcie",
+      "example_polish": "Zdobycie nagrody było wspaniałe, a nagroda pieniężna była wisienką na torcie."
+    },
+    {
+      "english": "in a fix",
+      "example_english": "I'm in a bit of a fix; I've lost my wallet.",
+      "polish": "w tarapatach, w kropce",
+      "example_polish": "Jestem w małych tarapatach; zgubiłem portfel."
+    },
+    {
+      "english": "in a jam",
+      "example_english": "I'm in a jam and I need your help.",
+      "polish": "w tarapatach",
+      "example_polish": "Jestem w tarapatach i potrzebuję twojej pomocy."
+    },
+    {
+      "english": "in cahoots with",
+      "example_english": "He was in cahoots with the criminals.",
+      "polish": "w zmowie z",
+      "example_polish": "Był w zmowie z przestępcami."
+    },
+    {
+      "english": "in droves",
+      "example_english": "People came in droves to see the new exhibition.",
+      "polish": "tłumnie, masowo",
+      "example_polish": "Ludzie tłumnie przybyli, aby zobaczyć nową wystawę."
+    },
+    {
+      "english": "in high spirits",
+      "example_english": "She was in high spirits after hearing the good news.",
+      "polish": "w doskonałym nastroju",
+      "example_polish": "Była w doskonałym nastroju po usłyszeniu dobrych wieści."
+    },
+    {
+      "english": "in stitches",
+      "example_english": "The comedian had us all in stitches.",
+      "polish": "zwijać się ze śmiechu",
+      "example_polish": "Komik rozbawił nas wszystkich do łez."
+    },
+    {
+      "english": "in the bag",
+      "example_english": "With a 20-point lead, the victory is in the bag.",
+      "polish": "pewny, załatwiony",
+      "example_polish": "Z 20-punktową przewagą zwycięstwo jest pewne."
+    },
+    {
+      "english": "in the doghouse",
+      "example_english": "I'm in the doghouse for forgetting our anniversary.",
+      "polish": "być na cenzurowanym",
+      "example_polish": "Jestem na cenzurowanym za zapomnienie o naszej rocznicy."
+    },
+    {
+      "english": "in the limelight",
+      "example_english": "She loves being in the limelight.",
+      "polish": "w centrum uwagi",
+      "example_polish": "Ona uwielbia być w centrum uwagi."
+    },
+    {
+      "english": "in the long run",
+      "example_english": "It's a lot of work now, but it will be worth it in the long run.",
+      "polish": "na dłuższą metę",
+      "example_polish": "Teraz to dużo pracy, ale na dłuższą metę będzie warto."
+    },
+    {
+      "english": "in the nick of time",
+      "example_english": "The ambulance arrived in the nick of time.",
+      "polish": "w ostatniej chwili",
+      "example_polish": "Karetka przyjechała w ostatniej chwili."
+    },
+    {
+      "english": "in the pipeline",
+      "example_english": "There are several new projects in the pipeline.",
+      "polish": "w przygotowaniu, w planach",
+      "example_polish": "W przygotowaniu jest kilka nowych projektów."
+    },
+    {
+      "english": "in the red",
+      "example_english": "The company has been in the red for three years.",
+      "polish": "na minusie, mieć straty",
+      "example_polish": "Firma od trzech lat jest na minusie."
+    },
+    {
+      "english": "in your element",
+      "example_english": "He's in his element when he's talking about cars.",
+      "polish": "w swoim żywiole",
+      "example_polish": "Jest w swoim żywiole, gdy mówi o samochodach."
+    },
+    {
+      "english": "ivory tower",
+      "example_english": "Academics are often accused of living in an ivory tower.",
+      "polish": "wieża z kości słoniowej",
+      "example_polish": "Akademicy są często oskarżani o życie w wieży z kości słoniowej."
+    },
+    {
+      "english": "John Hancock",
+      "example_english": "Put your John Hancock on the dotted line.",
+      "polish": "podpis",
+      "example_polish": "Złóż swój podpis na wykropkowanej linii."
+    },
+    {
+      "english": "joined at the hip",
+      "example_english": "Those two are always together; they're joined at the hip.",
+      "polish": "nierozłączni",
+      "example_polish": "Ta dwójka jest zawsze razem; są nierozłączni."
+    },
+    {
+      "english": "judge a book by its cover",
+      "example_english": "He may look scruffy, but you can't judge a book by its cover.",
+      "polish": "oceniać książkę po okładce",
+      "example_polish": "Może wyglądać niechlujnie, ale nie można oceniać książki po okładce."
+    },
+    {
+      "english": "jump down someone's throat",
+      "example_english": "I only asked a simple question, and he jumped down my throat.",
+      "polish": "skoczyć komuś do gardła",
+      "example_polish": "Zadałem tylko proste pytanie, a on skoczył mi do gardła."
+    },
+    {
+      "english": "keep someone at arm's length",
+      "example_english": "She keeps her colleagues at arm's length.",
+      "polish": "trzymać kogoś na dystans",
+      "example_polish": "Ona trzyma swoich kolegów na dystans."
+    },
+    {
+      "english": "keep your ear to the ground",
+      "example_english": "Keep your ear to the ground for any news about job openings.",
+      "polish": "trzymać rękę na pulsie",
+      "example_polish": "Trzymaj rękę na pulsie w poszukiwaniu wiadomości o ofertach pracy."
+    },
+    {
+      "english": "kick up a fuss",
+      "example_english": "He kicked up a fuss when they wouldn't give him a refund.",
+      "polish": "robić awanturę",
+      "example_polish": "Zrobił awanturę, gdy nie chcieli mu dać zwrotu pieniędzy."
+    },
+    {
+      "english": "killjoy",
+      "example_english": "Don't be such a killjoy and come to the party.",
+      "polish": "maruda, psuj zabawy",
+      "example_polish": "Nie bądź takim marudą i chodź na imprezę."
+    },
+    {
+      "english": "knock your socks off",
+      "example_english": "This new movie will knock your socks off.",
+      "polish": "zrobić na kimś ogromne wrażenie",
+      "example_polish": "Ten nowy film zrobi na tobie ogromne wrażenie."
+    },
+    {
+      "english": "knuckle down",
+      "example_english": "It's time to knuckle down and study for the exams.",
+      "polish": "wziąć się do roboty",
+      "example_polish": "Czas wziąć się do roboty i uczyć się do egzaminów."
+    },
+    {
+      "english": "labor of love",
+      "example_english": "He restored the old car as a labor of love.",
+      "polish": "praca wykonywana z miłości",
+      "example_polish": "Odrestaurował stary samochód z czystej miłości."
+    },
+    {
+      "english": "lame duck",
+      "example_english": "The president is a lame duck now that his successor has been elected.",
+      "polish": "polityk bezsilny u końca kadencji",
+      "example_polish": "Prezydent jest teraz bezsilny, gdy wybrano jego następcę."
+    },
+    {
+      "english": "lap of luxury",
+      "example_english": "They live in the lap of luxury.",
+      "polish": "żyć w luksusie",
+      "example_polish": "Oni żyją w luksusie."
+    },
+    {
+      "english": "laughing stock",
+      "example_english": "He became the laughing stock of the town.",
+      "polish": "pośmiewisko",
+      "example_polish": "Stał się pośmiewiskiem całego miasta."
+    },
+    {
+      "english": "lay down the law",
+      "example_english": "My father laid down the law about coming home late.",
+      "polish": "ustanawiać twarde reguły",
+      "example_polish": "Mój ojciec ustanowił twarde reguły dotyczące późnych powrotów do domu."
+    },
+    {
+      "english": "learn the ropes",
+      "example_english": "It took me a while to learn the ropes in my new job.",
+      "polish": "nauczyć się fachu, poznać arkana",
+      "example_polish": "Zajęło mi trochę czasu, aby nauczyć się fachu w nowej pracy."
+    },
+    {
+      "english": "leave someone in the lurch",
+      "example_english": "He left me in the lurch when I needed his help.",
+      "polish": "zostawić kogoś na lodzie",
+      "example_polish": "Zostawił mnie na lodzie, gdy potrzebowałem jego pomocy."
+    },
+    {
+      "english": "let off steam",
+      "example_english": "He went for a run to let off steam.",
+      "polish": "wyładować się, spuścić parę",
+      "example_polish": "Poszedł pobiegać, żeby się wyładować."
+    },
+    {
+      "english": "let the cat out of the bag",
+      "example_english": "She let the cat out of the bag about the surprise party.",
+      "polish": "wygadać się",
+      "example_polish": "Wygadała się o imprezie niespodziance."
+    },
+    {
+      "english": "lick your wounds",
+      "example_english": "After the defeat, the team went home to lick their wounds.",
+      "polish": "lizać rany",
+      "example_polish": "Po porażce drużyna wróciła do domu lizać rany."
+    },
+    {
+      "english": "lie low",
+      "example_english": "The criminals decided to lie low for a while.",
+      "polish": "nie wychylać się, siedzieć cicho",
+      "example_polish": "Przestępcy postanowili przez jakiś czas siedzieć cicho."
+    },
+    {
+      "english": "like a bull in a china shop",
+      "example_english": "He's so clumsy, like a bull in a china shop.",
+      "polish": "jak słoń w składzie porcelany",
+      "example_polish": "Jest taki niezdarny, jak słoń w składzie porcelany."
+    },
+    {
+      "english": "like chalk and cheese",
+      "example_english": "The two brothers are like chalk and cheese.",
+      "polish": "jak ogień i woda",
+      "example_polish": "Ci dwaj bracia są jak ogień i woda."
+    },
+    {
+      "english": "like two peas in a pod",
+      "example_english": "The twins are like two peas in a pod.",
+      "polish": "jak dwie krople wody",
+      "example_polish": "Bliźniaczki są jak dwie krople wody."
+    },
+    {
+      "english": "lion's share",
+      "example_english": "He took the lion's share of the profits.",
+      "polish": "lwia część",
+      "example_polish": "Wziął lwią część zysków."
+    },
+    {
+      "english": "lock, stock, and barrel",
+      "example_english": "He sold the business lock, stock, and barrel.",
+      "polish": "wszystko co do joty, w całości",
+      "example_polish": "Sprzedał firmę w całości."
+    },
+    {
+      "english": "long in the tooth",
+      "example_english": "He's a bit long in the tooth to be starting a new career.",
+      "polish": "w podeszłym wieku, stary",
+      "example_polish": "Jest trochę za stary, żeby zaczynać nową karierę."
+    },
+    {
+      "english": "look a gift horse in the mouth",
+      "example_english": "Don't look a gift horse in the mouth; just accept the present.",
+      "polish": "darowanemu koniowi w zęby się nie zagląda",
+      "example_polish": "Darowanemu koniowi w zęby się nie zagląda; po prostu przyjmij prezent."
+    },
+    {
+      "english": "loose cannon",
+      "example_english": "He's a loose cannon; you never know what he's going to do.",
+      "polish": "nieobliczalny, nieprzewidywalny",
+      "example_polish": "Jest nieobliczalny; nigdy nie wiesz, co zrobi."
+    },
+    {
+      "english": "lose face",
+      "example_english": "He lost face when he had to admit his mistake.",
+      "polish": "stracić twarz",
+      "example_polish": "Stracił twarz, gdy musiał przyznać się do błędu."
+    },
+    {
+      "english": "mad as a hatter",
+      "example_english": "He's been acting strangely; he's as mad as a hatter.",
+      "polish": "szalony jak kapelusznik",
+      "example_polish": "Zachowuje się dziwnie; jest szalony jak kapelusznik."
+    },
+    {
+      "english": "make a mountain out of a molehill",
+      "example_english": "You're making a mountain out of a molehill; it's just a small problem.",
+      "polish": "robić z igły widły",
+      "example_polish": "Robisz z igły widły; to tylko mały problem."
+    },
+    {
+      "english": "make ends meet",
+      "example_english": "It's hard to make ends meet on such a low salary.",
+      "polish": "wiązać koniec z końcem",
+      "example_polish": "Trudno jest związać koniec z końcem przy tak niskiej pensji."
+    },
+    {
+      "english": "make hay while the sun shines",
+      "example_english": "We have a great opportunity, so let's make hay while the sun shines.",
+      "polish": "kuj żelazo, póki gorące",
+      "example_polish": "Mamy świetną okazję, więc kujmy żelazo, póki gorące."
+    },
+    {
+      "english": "man of his word",
+      "example_english": "You can trust him; he's a man of his word.",
+      "polish": "człowiek honoru, słowny",
+      "example_polish": "Możesz mu zaufać; jest słownym człowiekiem."
+    },
+    {
+      "english": "mark my words",
+      "example_english": "Mark my words, this project will be a success.",
+      "polish": "zobaczysz, wspomnisz moje słowa",
+      "example_polish": "Wspomnisz moje słowa, ten projekt będzie sukcesem."
+    },
+    {
+      "english": "meet your Waterloo",
+      "example_english": "The champion finally met his Waterloo in the final match.",
+      "polish": "ponieść ostateczną klęskę",
+      "example_polish": "Mistrz w końcu poniósł ostateczną klęskę w finałowym meczu."
+    },
+    {
+      "english": "mend your ways",
+      "example_english": "You need to mend your ways if you want to succeed.",
+      "polish": "poprawić się, zmienić swoje postępowanie",
+      "example_polish": "Musisz się poprawić, jeśli chcesz odnieść sukces."
+    },
+    {
+      "english": "middle of the road",
+      "example_english": "His political views are very middle of the road.",
+      "polish": "umiarkowany, centrowy",
+      "example_polish": "Jego poglądy polityczne są bardzo umiarkowane."
+    },
+    {
+      "english": "milk it",
+      "example_english": "He had a small injury, but he's really milking it.",
+      "polish": "wykorzystywać sytuację, wyciskać ile się da",
+      "example_polish": "Miał małą kontuzję, ale naprawdę wykorzystuje sytuację."
+    },
+    {
+      "english": "mince your words",
+      "example_english": "Don't mince your words; tell me exactly what you think.",
+      "polish": "owijać w bawełnę",
+      "example_polish": "Nie owijaj w bawełnę; powiedz mi dokładnie, co myślisz."
+    },
+    {
+      "english": "mind your p's and q's",
+      "example_english": "Mind your p's and q's when you meet her parents.",
+      "polish": "uważać na to, co się mówi i robi",
+      "example_polish": "Uważaj na to, co mówisz i robisz, gdy spotkasz jej rodziców."
+    },
+    {
+      "english": "more than meets the eye",
+      "example_english": "There's more to this situation than meets the eye.",
+      "polish": "coś więcej, niż się wydaje na pierwszy rzut oka",
+      "example_polish": "W tej sytuacji jest coś więcej, niż się wydaje na pierwszy rzut oka."
+    },
+    {
+      "english": "move heaven and earth",
+      "example_english": "I'll move heaven and earth to get you those tickets.",
+      "polish": "poruszyć niebo i ziemię",
+      "example_polish": "Poruszę niebo i ziemię, żeby zdobyć dla ciebie te bilety."
+    },
+    {
+      "english": "muddy the waters",
+      "example_english": "His comments only served to muddy the waters.",
+      "polish": "zaciemniać obraz, mącić wodę",
+      "example_polish": "Jego komentarze tylko zaciemniły obraz sytuacji."
+    },
+    {
+      "english": "music to my ears",
+      "example_english": "The news of her promotion was music to my ears.",
+      "polish": "miód na moje uszy",
+      "example_polish": "Wiadomość o jej awansie była miodem na moje uszy."
+    },
+    {
+      "english": "nail-biting",
+      "example_english": "It was a nail-biting finish to the game.",
+      "polish": "trzymający w napięciu",
+      "example_polish": "To była trzymająca w napięciu końcówka meczu."
+    },
+    {
+      "english": "neck and neck",
+      "example_english": "The two runners were neck and neck.",
+      "polish": "łeb w łeb",
+      "example_polish": "Dwaj biegacze szli łeb w łeb."
+    },
+    {
+      "english": "nest egg",
+      "example_english": "They have a nice nest egg saved for retirement.",
+      "polish": "oszczędności na czarną godzinę",
+      "example_polish": "Mają ładne oszczędności na emeryturę."
+    },
+    {
+      "english": "never-never land",
+      "example_english": "He seems to be living in a never-never land, ignoring reality.",
+      "polish": "kraina fantazji, Nibylandia",
+      "example_polish": "Wydaje się, że żyje w krainie fantazji, ignorując rzeczywistość."
+    },
+    {
+      "english": "new lease of life",
+      "example_english": "The new heart gave him a new lease of life.",
+      "polish": "nowe życie, druga młodość",
+      "example_polish": "Nowe serce dało mu nowe życie."
+    },
+    {
+      "english": "night owl",
+      "example_english": "I'm a night owl; I do my best work late at night.",
+      "polish": "nocny marek",
+      "example_polish": "Jestem nocnym markiem; najlepiej pracuje mi się późno w nocy."
+    },
+    {
+      "english": "nine-to-five job",
+      "example_english": "He's tired of his nine-to-five job.",
+      "polish": "praca od dziewiątej do piątej",
+      "example_polish": "Jest zmęczony swoją pracą od dziewiątej do piątej."
+    },
+    {
+      "english": "no love lost",
+      "example_english": "There's no love lost between the two rivals.",
+      "polish": "nie darzyć się sympatią",
+      "example_polish": "Ci dwaj rywale nie darzą się sympatią."
+    },
+    {
+      "english": "no strings attached",
+      "example_english": "The offer comes with no strings attached.",
+      "polish": "bez żadnych zobowiązań",
+      "example_polish": "Oferta jest bez żadnych zobowiązań."
+    },
+    {
+      "english": "not see the wood for the trees",
+      "example_english": "He's so focused on the details that he can't see the wood for the trees.",
+      "polish": "nie widzieć lasu spoza drzew",
+      "example_polish": "Jest tak skupiony na szczegółach, że nie widzi lasu spoza drzew."
+    },
+    {
+      "english": "nothing to write home about",
+      "example_english": "The movie was okay, but nothing to write home about.",
+      "polish": "nic specjalnego",
+      "example_polish": "Film był w porządku, ale nic specjalnego."
+    },
+    {
+      "english": "off the beaten track",
+      "example_english": "We found a lovely little restaurant off the beaten track.",
+      "polish": "na uboczu",
+      "example_polish": "Znaleźliśmy uroczą małą restaurację na uboczu."
+    },
+    {
+      "english": "off the cuff",
+      "example_english": "He made a few remarks off the cuff.",
+      "polish": "z marszu, bez przygotowania",
+      "example_polish": "Wygłosił kilka uwag bez przygotowania."
+    },
+    {
+      "english": "off the record",
+      "example_english": "This is off the record, but I think he's going to be fired.",
+      "polish": "nieoficjalnie",
+      "example_polish": "To nieoficjalne, ale myślę, że zostanie zwolniony."
+    },
+    {
+      "english": "old hand",
+      "example_english": "He's an old hand at this game.",
+      "polish": "stary wyga",
+      "example_polish": "Jest starym wygą w tej grze."
+    },
+    {
+      "english": "on a shoestring",
+      "example_english": "They started the business on a shoestring.",
+      "polish": "bardzo skromnie, za małe pieniądze",
+      "example_polish": "Zaczęli biznes za bardzo małe pieniądze."
+    },
+    {
+      "english": "on cloud nine",
+      "example_english": "He was on cloud nine after winning the lottery.",
+      "polish": "w siódmym niebie",
+      "example_polish": "Był w siódmym niebie po wygranej na loterii."
+    },
+    {
+      "english": "on pins and needles",
+      "example_english": "I was on pins and needles waiting for the results.",
+      "polish": "jak na szpilkach",
+      "example_polish": "Byłem jak na szpilkach, czekając na wyniki."
+    },
+    {
+      "english": "on second thought",
+      "example_english": "On second thought, I think I will have another coffee.",
+      "polish": "po namyśle",
+      "example_polish": "Po namyśle, myślę, że wezmę jeszcze jedną kawę."
+    },
+    {
+      "english": "on tenterhooks",
+      "example_english": "We were on tenterhooks waiting for the verdict.",
+      "polish": "w wielkim napięciu",
+      "example_polish": "Czekaliśmy na werdykt w wielkim napięciu."
+    },
+    {
+      "english": "on the blink",
+      "example_english": "My TV is on the blink again.",
+      "polish": "psuć się, szwankować",
+      "example_polish": "Mój telewizor znowu szwankuje."
+    },
+    {
+      "english": "on the dole",
+      "example_english": "He's been on the dole for six months.",
+      "polish": "na zasiłku dla bezrobotnych",
+      "example_polish": "Jest na zasiłku od sześciu miesięcy."
+    },
+    {
+      "english": "on the level",
+      "example_english": "Is this deal on the level?",
+      "polish": "uczciwy, legalny",
+      "example_polish": "Czy ta umowa jest uczciwa?"
+    },
+    {
+      "english": "on the rocks",
+      "example_english": "Their marriage is on the rocks.",
+      "polish": "w rozsypce, przeżywać kryzys",
+      "example_polish": "Ich małżeństwo przeżywa kryzys."
+    },
+    {
+      "english": "on the spur of the moment",
+      "example_english": "We decided to go to the beach on the spur of the moment.",
+      "polish": "pod wpływem chwili",
+      "example_polish": "Postanowiliśmy pojechać na plażę pod wpływem chwili."
+    },
+    {
+      "english": "on the warpath",
+      "example_english": "She's on the warpath about the mess in the kitchen.",
+      "polish": "na wojennej ścieżce",
+      "example_polish": "Jest na wojennej ścieżce z powodu bałaganu w kuchni."
+    },
+    {
+      "english": "once and for all",
+      "example_english": "Let's settle this argument once and for all.",
+      "polish": "raz na zawsze",
+      "example_polish": "Rozstrzygnijmy tę kłótnię raz na zawsze."
+    },
+    {
+      "english": "one-track mind",
+      "example_english": "He has a one-track mind; all he talks about is football.",
+      "polish": "myśleć tylko o jednym",
+      "example_polish": "On myśli tylko o jednym; ciągle mówi o piłce nożnej."
+    },
+    {
+      "english": "open a can of worms",
+      "example_english": "Asking about his past is like opening a can of worms.",
+      "polish": "otworzyć puszkę Pandory",
+      "example_polish": "Pytanie o jego przeszłość to jak otwieranie puszki Pandory."
+    },
+    {
+      "english": "out and about",
+      "example_english": "She's out and about again after her illness.",
+      "polish": "znowu w pełni sił, aktywny",
+      "example_polish": "Po chorobie znowu jest w pełni sił."
+    },
+    {
+      "english": "out of sorts",
+      "example_english": "I'm feeling a bit out of sorts today.",
+      "polish": "w złym humorze, niewyraźny",
+      "example_polish": "Czuję się dziś trochę niewyraźnie."
+    },
+    {
+      "english": "out of the frying pan into the fire",
+      "example_english": "He quit his stressful job only to find his new one was even worse - out of the frying pan into the fire.",
+      "polish": "z deszczu pod rynnę",
+      "example_polish": "Rzucił stresującą pracę tylko po to, by odkryć, że nowa jest jeszcze gorsza - z deszczu pod rynnę."
+    },
+    {
+      "english": "out of this world",
+      "example_english": "The food at that restaurant is out of this world.",
+      "polish": "nie z tej ziemi, wspaniały",
+      "example_polish": "Jedzenie w tej restauracji jest nie z tej ziemi."
+    },
+    {
+      "english": "over my dead body",
+      "example_english": "You'll sell this house over my dead body!",
+      "polish": "po moim trupie",
+      "example_polish": "Sprzedasz ten dom po moim trupie!"
+    },
+    {
+      "english": "over the moon",
+      "example_english": "She was over the moon with her exam results.",
+      "polish": "niezmiernie szczęśliwy",
+      "example_polish": "Była niezmiernie szczęśliwa z wyników egzaminów."
+    },
+    {
+      "english": "over the top",
+      "example_english": "His reaction was a bit over the top.",
+      "polish": "przesadzony",
+      "example_polish": "Jego reakcja była trochę przesadzona."
+    },
+    {
+      "english": "pain in the neck",
+      "example_english": "My little brother can be a real pain in the neck.",
+      "polish": "wrzód na tyłku",
+      "example_polish": "Mój młodszy brat potrafi być prawdziwym wrzodem na tyłku."
+    },
+    {
+      "english": "Pandora's box",
+      "example_english": "The investigation opened a Pandora's box of corruption.",
+      "polish": "puszka Pandory",
+      "example_polish": "Śledztwo otworzyło puszkę Pandory korupcji."
+    },
+    {
+      "english": "paper over the cracks",
+      "example_english": "They tried to paper over the cracks in their marriage.",
+      "polish": "tuszować problemy",
+      "example_polish": "Próbowali tuszować problemy w swoim małżeństwie."
+    },
+    {
+      "english": "part and parcel",
+      "example_english": "Hard work is part and parcel of this job.",
+      "polish": "nieodłączna część",
+      "example_polish": "Ciężka praca jest nieodłączną częścią tej pracy."
+    },
+    {
+      "english": "pass with flying colors",
+      "example_english": "She passed her driving test with flying colors.",
+      "polish": "zdać śpiewająco",
+      "example_polish": "Zdała egzamin na prawo jazdy śpiewająco."
+    },
+    {
+      "english": "pay lip service",
+      "example_english": "The company pays lip service to environmental issues.",
+      "polish": "składać gołosłowne deklaracje",
+      "example_polish": "Firma składa gołosłowne deklaracje w kwestiach ekologicznych."
+    },
+    {
+      "english": "penny-pinching",
+      "example_english": "He's known for his penny-pinching habits.",
+      "polish": "skąpy, oszczędny do przesady",
+      "example_polish": "Jest znany ze swoich skąpych nawyków."
+    },
+    {
+      "english": "pick holes in",
+      "example_english": "He loves to pick holes in my arguments.",
+      "polish": "szukać dziury w całym",
+      "example_polish": "Uwielbia szukać dziury w całym w moich argumentach."
+    },
+    {
+      "english": "pipe dream",
+      "example_english": "His plan to become a millionaire is just a pipe dream.",
+      "polish": "marzenie ściętej głowy",
+      "example_polish": "Jego plan zostania milionerem to tylko marzenie ściętej głowy."
+    },
+    {
+      "english": "play second fiddle",
+      "example_english": "I'm tired of playing second fiddle to him.",
+      "polish": "grać drugie skrzypce",
+      "example_polish": "Jestem zmęczony graniem drugich skrzypiec przy nim."
+    },
+    {
+      "english": "pop the question",
+      "example_english": "He finally popped the question last night.",
+      "polish": "oświadczyć się",
+      "example_polish": "W końcu oświadczył się zeszłej nocy."
+    },
+    {
+      "english": "pot calling the kettle black",
+      "example_english": "You're calling me lazy? That's the pot calling the kettle black.",
+      "polish": "przyganiał kocioł garnkowi",
+      "example_polish": "Nazywasz mnie leniwym? Przyganiał kocioł garnkowi."
+    },
+    {
+      "english": "pour oil on troubled waters",
+      "example_english": "She tried to pour oil on troubled waters by changing the subject.",
+      "polish": "łagodzić sytuację",
+      "example_polish": "Próbowała załagodzić sytuację, zmieniając temat."
+    },
+    {
+      "english": "pull a fast one",
+      "example_english": "He tried to pull a fast one on me, but I didn't fall for it.",
+      "polish": "przechytrzyć, oszukać",
+      "example_polish": "Próbował mnie przechytrzyć, ale nie dałem się nabrać."
+    },
+    {
+      "english": "pull out all the stops",
+      "example_english": "They pulled out all the stops for their daughter's wedding.",
+      "polish": "zrobić wszystko, co w czyjejś mocy",
+      "example_polish": "Zrobili wszystko, co w ich mocy, na ślub córki."
+    },
+    {
+      "english": "put a damper on",
+      "example_english": "The bad weather put a damper on our picnic.",
+      "polish": "zepsuć nastrój, ostudzić zapał",
+      "example_polish": "Zła pogoda zepsuła nam piknik."
+    },
+    {
+      "english": "put the cart before the horse",
+      "example_english": "Buying a wedding dress before you're engaged is putting the cart before the horse.",
+      "polish": "robić coś od końca",
+      "example_polish": "Kupowanie sukni ślubnej przed zaręczynami to robienie czegoś od końca."
+    },
+    {
+      "english": "put your best foot forward",
+      "example_english": "You need to put your best foot forward in the interview.",
+      "polish": "pokazać się z jak najlepszej strony",
+      "example_polish": "Musisz pokazać się z jak najlepszej strony na rozmowie kwalifikacyjnej."
+    },
+    {
+      "english": "Pyrrhic victory",
+      "example_english": "It was a Pyrrhic victory; they won the battle but lost too many soldiers.",
+      "polish": "pyrrusowe zwycięstwo",
+      "example_polish": "To było pyrrusowe zwycięstwo; wygrali bitwę, ale stracili zbyt wielu żołnierzy."
+    },
+    {
+      "english": "queer the pitch",
+      "example_english": "He queered my pitch by telling the boss my idea first.",
+      "polish": "pokrzyżować komuś plany",
+      "example_polish": "Pokrzyżował mi plany, mówiąc szefowi o moim pomyśle jako pierwszy."
+    },
+    {
+      "english": "quick on the uptake",
+      "example_english": "She's very quick on the uptake and learns new things easily.",
+      "polish": "szybko łapać, być pojętnym",
+      "example_polish": "Jest bardzo pojętna i łatwo uczy się nowych rzeczy."
+    },
+    {
+      "english": "rack your brains",
+      "example_english": "I've been racking my brains, but I can't remember her name.",
+      "polish": "łamać sobie głowę",
+      "example_polish": "Łamię sobie głowę, ale nie mogę sobie przypomnieć jej imienia."
+    },
+    {
+      "english": "rain cats and dogs",
+      "example_english": "It's raining cats and dogs outside.",
+      "polish": "leje jak z cebra",
+      "example_polish": "Na zewnątrz leje jak z cebra."
+    },
+    {
+      "english": "raise eyebrows",
+      "example_english": "His strange behavior raised a few eyebrows.",
+      "polish": "wywołać zdziwienie, zdumienie",
+      "example_polish": "Jego dziwne zachowanie wywołało zdziwienie."
+    },
+    {
+      "english": "read the riot act",
+      "example_english": "The manager read the riot act to the lazy employees.",
+      "polish": "dać komuś ostatnie ostrzeżenie, zrobić awanturę",
+      "example_polish": "Menedżer dał ostatnie ostrzeżenie leniwym pracownikom."
+    },
+    {
+      "english": "red-letter day",
+      "example_english": "It was a red-letter day when I graduated from university.",
+      "polish": "szczęśliwy dzień, pamiętna data",
+      "example_polish": "To był pamiętny dzień, kiedy ukończyłem uniwersytet."
+    },
+    {
+      "english": "reinvent the wheel",
+      "example_english": "We don't need to reinvent the wheel; let's use the existing solution.",
+      "polish": "wyważać otwarte drzwi",
+      "example_polish": "Nie musimy wyważać otwartych drzwi; użyjmy istniejącego rozwiązania."
+    },
+    {
+      "english": "rest on your laurels",
+      "example_english": "Don't rest on your laurels; you need to keep working hard.",
+      "polish": "spocząć na laurach",
+      "example_polish": "Nie spoczywaj na laurach; musisz dalej ciężko pracować."
+    },
+    {
+      "english": "ride shotgun",
+      "example_english": "I want to ride shotgun!",
+      "polish": "siedzieć na miejscu pasażera z przodu",
+      "example_polish": "Chcę siedzieć z przodu!"
+    },
+    {
+      "english": "right as rain",
+      "example_english": "After a good night's sleep, I feel as right as rain.",
+      "polish": "zdrów jak ryba",
+      "example_polish": "Po dobrze przespanej nocy czuję się zdrów jak ryba."
+    },
+    {
+      "english": "ring hollow",
+      "example_english": "His promises rang hollow after so many lies.",
+      "polish": "brzmieć fałszywie",
+      "example_polish": "Jego obietnice brzmiały fałszywie po tylu kłamstwach."
+    },
+    {
+      "english": "rob Peter to pay Paul",
+      "example_english": "Taking out a new loan to pay off an old one is just robbing Peter to pay Paul.",
+      "polish": "płacić jednym długiem za drugi",
+      "example_polish": "Zaciąganie nowej pożyczki na spłatę starej to tylko płacenie jednym długiem za drugi."
+    },
+    {
+      "english": "roll with the punches",
+      "example_english": "In this job, you have to learn to roll with the punches.",
+      "polish": "dostosowywać się do sytuacji, nie poddawać się",
+      "example_polish": "W tej pracy musisz nauczyć się dostosowywać do sytuacji."
+    },
+    {
+      "english": "Rome wasn't built in a day",
+      "example_english": "Be patient with your progress. Rome wasn't built in a day.",
+      "polish": "nie od razu Kraków zbudowano",
+      "example_polish": "Bądź cierpliwy w swoich postępach. Nie od razu Kraków zbudowano."
+    },
+    {
+      "english": "rub salt in the wound",
+      "example_english": "Losing was bad enough, but his comments just rubbed salt in the wound.",
+      "polish": "sypać sól na ranę",
+      "example_polish": "Przegrana była wystarczająco zła, a jego komentarze tylko sypały sól na ranę."
+    },
+    {
+      "english": "run rings around someone",
+      "example_english": "She can run rings around him in any argument.",
+      "polish": "być o niebo lepszym od kogoś",
+      "example_polish": "Jest od niego o niebo lepsza w każdej kłótni."
+    },
+    {
+      "english": "run the gauntlet",
+      "example_english": "He had to run the gauntlet of reporters to get to his car.",
+      "polish": "przejść przez ciężką próbę, być pod ostrzałem",
+      "example_polish": "Musiał przejść przez ciężką próbę reporterów, aby dostać się do samochodu."
+    },
+    {
+      "english": "sail close to the wind",
+      "example_english": "His business practices sail close to the wind.",
+      "polish": "igrać z ogniem, balansować na granicy prawa",
+      "example_polish": "Jego praktyki biznesowe balansują na granicy prawa."
+    },
+    {
+      "english": "salt of the earth",
+      "example_english": "My grandparents are the salt of the earth.",
+      "polish": "sól ziemi",
+      "example_polish": "Moi dziadkowie to sól ziemi."
+    },
+    {
+      "english": "save face",
+      "example_english": "He tried to save face by making an excuse.",
+      "polish": "zachować twarz",
+      "example_polish": "Próbował zachować twarz, wymyślając wymówkę."
+    },
+    {
+      "english": "scot-free",
+      "example_english": "The thief got away scot-free.",
+      "polish": "bezkarnie",
+      "example_polish": "Złodziej uciekł bezkarnie."
+    },
+    {
+      "english": "scrape the bottom of the barrel",
+      "example_english": "They're really scraping the bottom of the barrel with these new employees.",
+      "polish": "sięgać po najgorsze opcje",
+      "example_polish": "Naprawdę sięgają po najgorsze opcje z tymi nowymi pracownikami."
+    },
+    {
+      "english": "second to none",
+      "example_english": "Her cooking is second to none.",
+      "polish": "niezrównany, najlepszy",
+      "example_polish": "Jej gotowanie jest niezrównane."
+    },
+    {
+      "english": "see eye to eye",
+      "example_english": "We don't see eye to eye on this issue.",
+      "polish": "zgadzać się",
+      "example_polish": "Nie zgadzamy się w tej kwestii."
+    },
+    {
+      "english": "sell like hot cakes",
+      "example_english": "The new phones are selling like hot cakes.",
+      "polish": "sprzedawać się jak świeże bułeczki",
+      "example_polish": "Nowe telefony sprzedają się jak świeże bułeczki."
+    },
+    {
+      "english": "send someone packing",
+      "example_english": "He was rude, so she sent him packing.",
+      "polish": "wyrzucić kogoś, odprawić z kwitkiem",
+      "example_polish": "Był niegrzeczny, więc go wyrzuciła."
+    },
+    {
+      "english": "separate the wheat from the chaff",
+      "example_english": "The first round of interviews is to separate the wheat from the chaff.",
+      "polish": "oddzielić ziarno od plew",
+      "example_polish": "Pierwsza runda rozmów kwalifikacyjnych ma na celu oddzielenie ziarna od plew."
+    },
+    {
+      "english": "set the world on fire",
+      "example_english": "He's a good student, but he's not going to set the world on fire.",
+      "polish": "zawojować świat",
+      "example_polish": "Jest dobrym uczniem, ale nie zawojuje świata."
+    },
+    {
+      "english": "shake in your shoes",
+      "example_english": "He was shaking in his shoes before the exam.",
+      "polish": "trząść się ze strachu",
+      "example_polish": "Trząsł się ze strachu przed egzaminem."
+    },
+    {
+      "english": "sharp as a tack",
+      "example_english": "My grandmother is 95, but she's still as sharp as a tack.",
+      "polish": "bystry jak brzytwa",
+      "example_polish": "Moja babcia ma 95 lat, ale wciąż jest bystra jak brzytwa."
+    },
+    {
+      "english": "shipshape",
+      "example_english": "Everything in his office is shipshape.",
+      "polish": "w idealnym porządku",
+      "example_polish": "Wszystko w jego biurze jest w idealnym porządku."
+    },
+    {
+      "english": "shoot the breeze",
+      "example_english": "We spent the afternoon shooting the breeze.",
+      "polish": "gadać o niczym, plotkować",
+      "example_polish": "Spędziliśmy popołudnie, gadając o niczym."
+    },
+    {
+      "english": "short end of the stick",
+      "example_english": "I always seem to get the short end of the stick.",
+      "polish": "wyjść na czymś jak Zabłocki na mydle, być stratnym",
+      "example_polish": "Zawsze wydaje mi się, że wychodzę na wszystkim jak Zabłocki na mydle."
+    },
+    {
+      "english": "shot in the arm",
+      "example_english": "The new investment was a shot in the arm for the company.",
+      "polish": "zastrzyk energii, bodziec",
+      "example_polish": "Nowa inwestycja była zastrzykiem energii dla firmy."
+    },
+    {
+      "english": "show your true colors",
+      "example_english": "He showed his true colors during the crisis.",
+      "polish": "pokazać swoje prawdziwe oblicze",
+      "example_polish": "Pokazał swoje prawdziwe oblicze podczas kryzysu."
+    },
+    {
+      "english": "sick as a dog",
+      "example_english": "I was as sick as a dog after eating that seafood.",
+      "polish": "bardzo chory",
+      "example_polish": "Byłem bardzo chory po zjedzeniu tych owoców morza."
+    },
+    {
+      "english": "sight for sore eyes",
+      "example_english": "After a long day, my comfortable bed is a sight for sore eyes.",
+      "polish": "miły widok, balsam dla oczu",
+      "example_polish": "Po długim dniu moje wygodne łóżko to balsam dla oczu."
+    },
+    {
+      "english": "sing a different tune",
+      "example_english": "He's singing a different tune now that he needs our help.",
+      "polish": "zmienić śpiewkę",
+      "example_polish": "Teraz, gdy potrzebuje naszej pomocy, zmienił śpiewkę."
+    },
+    {
+      "english": "sink or swim",
+      "example_english": "They left him to sink or swim on his own.",
+      "polish": "wóz albo przewóz",
+      "example_polish": "Zostawili go, żeby radził sobie sam."
+    },
+    {
+      "english": "sit tight",
+      "example_english": "Just sit tight; I'll be back in a minute.",
+      "polish": "siedzieć cicho i czekać",
+      "example_polish": "Siedź cicho i czekaj; wrócę za minutę."
+    },
+    {
+      "english": "sitting duck",
+      "example_english": "The soldiers were sitting ducks for the enemy sniper.",
+      "polish": "łatwy cel",
+      "example_polish": "Żołnierze byli łatwym celem dla snajpera wroga."
+    },
+    {
+      "english": "skating on thin ice",
+      "example_english": "You're skating on thin ice by constantly being late.",
+      "polish": "chodzić po cienkim lodzie",
+      "example_polish": "Chodzisz po cienkim lodzie, ciągle się spóźniając."
+    },
+    {
+      "english": "sleep on it",
+      "example_english": "I'll sleep on it and give you my decision tomorrow.",
+      "polish": "przespać się z tym",
+      "example_polish": "Przeсpię się z tym i dam ci moją decyzję jutro."
+    },
+    {
+      "english": "small fry",
+      "example_english": "He's just small fry in this organization.",
+      "polish": "płotka, nieważna osoba",
+      "example_polish": "On jest tylko płotką w tej organizacji."
+    },
+    {
+      "english": "smooth sailing",
+      "example_english": "After the initial problems, it was smooth sailing.",
+      "polish": "jak po maśle",
+      "example_polish": "Po początkowych problemach wszystko szło jak po maśle."
+    },
+    {
+      "english": "snake in the grass",
+      "example_english": "I trusted him, but he turned out to be a snake in the grass.",
+      "polish": "żmija na własnej piersi",
+      "example_polish": "Zaufałem mu, ale okazał się żmiją na mojej piersi."
+    },
+    {
+      "english": "sow your wild oats",
+      "example_english": "He spent his youth sowing his wild oats.",
+      "polish": "wyszumieć się za młodu",
+      "example_polish": "Spędził młodość na wyszumieniu się."
+    },
+    {
+      "english": "spanner in the works",
+      "example_english": "The unexpected delay threw a spanner in the works.",
+      "polish": "przeszkoda, komplikacja",
+      "example_polish": "Niespodziewane opóźnienie rzuciło kłody pod nogi."
+    },
+    {
+      "english": "speak with a forked tongue",
+      "example_english": "You can't trust a politician who speaks with a forked tongue.",
+      "polish": "mówić jedno, a robić drugie; być obłudnym",
+      "example_polish": "Nie można ufać politykowi, który jest obłudny."
+    },
+    {
+      "english": "spick and span",
+      "example_english": "Her house is always spick and span.",
+      "polish": "czyściutki, lśniący",
+      "example_polish": "Jej dom jest zawsze czyściutki."
+    },
+    {
+      "english": "spill the beans",
+      "example_english": "Don't spill the beans about the surprise.",
+      "polish": "wygadać się",
+      "example_polish": "Nie wygadaj się o niespodziance."
+    },
+    {
+      "english": "spin a yarn",
+      "example_english": "My grandfather loves to spin a yarn about his adventures.",
+      "polish": "opowiadać niestworzone historie",
+      "example_polish": "Mój dziadek uwielbia opowiadać niestworzone historie o swoich przygodach."
+    },
+    {
+      "english": "split hairs",
+      "example_english": "They were splitting hairs over a minor detail.",
+      "polish": "dzielić włos na czworo",
+      "example_polish": "Dzielili włos na czworo w sprawie drobnego szczegółu."
+    },
+    {
+      "english": "spread like wildfire",
+      "example_english": "The news spread like wildfire.",
+      "polish": "rozprzestrzeniać się w zastraszającym tempie",
+      "example_polish": "Wiadomość rozprzestrzeniła się w zastraszającym tempie."
+    },
+    {
+      "english": "square meal",
+      "example_english": "He hasn't had a square meal in days.",
+      "polish": "porządny posiłek",
+      "example_polish": "Od dni nie jadł porządnego posiłku."
+    },
+    {
+      "english": "start from scratch",
+      "example_english": "The project failed, so we have to start from scratch.",
+      "polish": "zacząć od zera",
+      "example_polish": "Projekt się nie powiódł, więc musimy zacząć od zera."
+    },
+    {
+      "english": "steal the show",
+      "example_english": "The little girl stole the show with her amazing performance.",
+      "polish": "skraść show",
+      "example_polish": "Mała dziewczynka skradła show swoim niesamowitym występem."
+    },
+    {
+      "english": "steer clear of",
+      "example_english": "You should steer clear of him; he's bad news.",
+      "polish": "trzymać się z daleka od",
+      "example_polish": "Powinieneś trzymać się od niego z daleka; to zły człowiek."
+    },
+    {
+      "english": "step into someone's shoes",
+      "example_english": "It will be hard to find someone to step into her shoes.",
+      "polish": "zastąpić kogoś",
+      "example_polish": "Trudno będzie znaleźć kogoś, kto ją zastąpi."
+    },
+    {
+      "english": "stiff-necked",
+      "example_english": "He's too stiff-necked to admit he was wrong.",
+      "polish": "uparty, sztywny",
+      "example_polish": "Jest zbyt uparty, żeby przyznać, że się mylił."
+    },
+    {
+      "english": "stir up a hornet's nest",
+      "example_english": "His comments stirred up a hornet's nest of controversy.",
+      "polish": "wsadzić kij w mrowisko",
+      "example_polish": "Jego komentarze wsadziły kij w mrowisko kontrowersji."
+    },
+    {
+      "english": "stone's throw",
+      "example_english": "The beach is just a stone's throw from our hotel.",
+      "polish": "rzut kamieniem",
+      "example_polish": "Plaża jest o rzut kamieniem od naszego hotelu."
+    },
+    {
+      "english": "storm in a teacup",
+      "example_english": "Their argument was just a storm in a teacup.",
+      "polish": "burza w szklance wody",
+      "example_polish": "Ich kłótnia to była tylko burza w szklance wody."
+    },
+    {
+      "english": "straight from the shoulder",
+      "example_english": "He told me the bad news straight from the shoulder.",
+      "polish": "prosto z mostu",
+      "example_polish": "Powiedział mi złą wiadomość prosto z mostu."
+    },
+    {
+      "english": "straw that broke the camel's back",
+      "example_english": "Losing my keys was the straw that broke the camel's back.",
+      "polish": "kropla, która przelała czarę goryczy",
+      "example_polish": "Zgubienie kluczy było kroplą, która przelała czarę goryczy."
+    },
+    {
+      "english": "strike while the iron is hot",
+      "example_english": "The offer is only available today, so you should strike while the iron is hot.",
+      "polish": "kuj żelazo, póki gorące",
+      "example_polish": "Oferta jest dostępna tylko dzisiaj, więc powinieneś kuć żelazo, póki gorące."
+    },
+    {
+      "english": "sweep under the carpet",
+      "example_english": "They tried to sweep the scandal under the carpet.",
+      "polish": "zamiatać pod dywan",
+      "example_polish": "Próbowali zamieść skandal pod dywan."
+    },
+    {
+      "english": "take a back seat",
+      "example_english": "I'm happy to take a back seat and let you lead the project.",
+      "polish": "usunąć się w cień",
+      "example_polish": "Chętnie usunę się w cień i pozwolę ci prowadzić projekt."
+    },
+    {
+      "english": "take a rain check",
+      "example_english": "I can't come to dinner tonight, can I take a rain check?",
+      "polish": "przełożyć na inny termin",
+      "example_polish": "Nie mogę przyjść dziś na obiad, czy możemy to przełożyć?"
+    },
+    {
+      "english": "take it on the chin",
+      "example_english": "He had to take it on the chin and accept the criticism.",
+      "polish": "przyjąć na klatę",
+      "example_polish": "Musiał przyjąć to na klatę i zaakceptować krytykę."
+    },
+    {
+      "english": "take the bull by the horns",
+      "example_english": "It's time to take the bull by the horns and deal with this problem.",
+      "polish": "wziąć byka za rogi",
+      "example_polish": "Czas wziąć byka za rogi i zająć się tym problemem."
+    },
+    {
+      "english": "take the cake",
+      "example_english": "His excuse for being late really takes the cake.",
+      "polish": "przechodzić ludzkie pojęcie",
+      "example_polish": "Jego wymówka na spóźnienie naprawdę przechodzi ludzkie pojęcie."
+    },
+    {
+      "english": "take with a pinch of salt",
+      "example_english": "You should take his stories with a pinch of salt.",
+      "polish": "brać z przymrużeniem oka",
+      "example_polish": "Powinieneś brać jego historie z przymrużeniem oka."
+    },
+    {
+      "english": "talk shop",
+      "example_english": "Let's not talk shop at the party.",
+      "polish": "rozmawiać o pracy",
+      "example_polish": "Nie rozmawiajmy o pracy na imprezie."
+    },
+    {
+      "english": "tar with the same brush",
+      "example_english": "You can't tar all politicians with the same brush.",
+      "polish": "wrzucać wszystkich do jednego worka",
+      "example_polish": "Nie można wrzucać wszystkich polityków do jednego worka."
+    },
+    {
+      "english": "tempest in a teapot",
+      "example_english": "The whole controversy was just a tempest in a teapot.",
+      "polish": "burza w szklance wody",
+      "example_polish": "Cała ta kontrowersja to była tylko burza w szklance wody."
+    },
+    {
+      "english": "the acid test",
+      "example_english": "The real acid test will come when we launch the product.",
+      "polish": "próba ogniowa",
+      "example_polish": "Prawdziwa próba ogniowa nadejdzie, gdy wprowadzimy produkt na rynek."
+    },
+    {
+      "english": "the apple doesn't fall far from the tree",
+      "example_english": "She's a talented artist, just like her mother. The apple doesn't fall far from the tree.",
+      "polish": "niedaleko pada jabłko od jabłoni",
+      "example_polish": "Jest utalentowaną artystką, tak jak jej matka. Niedaleko pada jabłko od jabłoni."
+    },
+    {
+      "english": "the ball is in your court",
+      "example_english": "I've done my part; now the ball is in your court.",
+      "polish": "teraz twoja kolej",
+      "example_polish": "Zrobiłem swoją część; teraz twoja kolej."
+    },
+    {
+      "english": "the bee's knees",
+      "example_english": "He thinks he's the bee's knees.",
+      "polish": "coś wspaniałego, ktoś wyjątkowy",
+      "example_polish": "Myśli, że jest kimś wyjątkowym."
+    },
+    {
+      "english": "the blind leading the blind",
+      "example_english": "It was a case of the blind leading the blind when they tried to navigate the city.",
+      "polish": "ślepy prowadzi ślepego",
+      "example_polish": "To był przypadek, gdy ślepy prowadził ślepego, kiedy próbowali poruszać się po mieście."
+    },
+    {
+      "english": "the devil is in the details",
+      "example_english": "The plan looks good, but the devil is in the details.",
+      "polish": "diabeł tkwi w szczegółach",
+      "example_polish": "Plan wygląda dobrze, ale diabeł tkwi w szczegółach."
+    },
+    {
+      "english": "the early bird gets the worm",
+      "example_english": "The sale starts at 6 AM, and the early bird gets the worm.",
+      "polish": "kto rano wstaje, temu Pan Bóg daje",
+      "example_polish": "Wyprzedaż zaczyna się o 6 rano, a kto rano wstaje, temu Pan Bóg daje."
+    },
+    {
+      "english": "the fat is in the fire",
+      "example_english": "Now that the secret is out, the fat is in the fire.",
+      "polish": "mleko się rozlało",
+      "example_polish": "Teraz, gdy sekret wyszedł na jaw, mleko się rozlało."
+    },
+    {
+      "english": "the gloves are off",
+      "example_english": "The gloves are off in this political debate.",
+      "polish": "koniec żartów, zaczyna się ostra walka",
+      "example_polish": "W tej debacie politycznej skończyły się żarty."
+    },
+    {
+      "english": "the grass is always greener on the other side",
+      "example_english": "He's not happy with his job and thinks the grass is always greener on the other side.",
+      "polish": "wszędzie dobrze, gdzie nas nie ma",
+      "example_polish": "Nie jest zadowolony ze swojej pracy i myśli, że wszędzie dobrze, gdzie nas nie ma."
     }
   ]
 }
