@@ -21,6 +21,8 @@ jobs:
         flutter-version: '3.19.6'
     - name: Create new flutter project
       run: flutter create --project-name pythoningo temp_app
+    - name: List files in workspace
+      run: ls -R
     - name: Move app files to new project
       run: |
         rm -rf temp_app/lib
