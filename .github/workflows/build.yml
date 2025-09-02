@@ -25,9 +25,10 @@ jobs:
       run: |
         rm -rf temp_app/lib
         rm temp_app/pubspec.yaml
-        cp -R app/lib temp_app/lib
-        cp -R app/assets temp_app/assets
-        cp app/pubspec.yaml temp_app/pubspec.yaml
+        cp -R lib temp_app/lib
+        cp -R assets temp_app/assets
+        cp pubspec.yaml temp_app/pubspec.yaml
+      working-directory: ./app
     - run: flutter pub get
       working-directory: ./temp_app
     - run: flutter build apk --release
